@@ -22,11 +22,11 @@ irc = {
     "chan": "#easyctf",
 }
 
-f = open("log.txt", "a");
+# f = open("log.txt", "a");
 
 def parse(line):
     if False: # line.find("heibot leave") != -1:
-        f.close();
+        # f.close();
         s.send("QUIT\n");
     else:
         if len(line.split(":")) == 3:
@@ -52,6 +52,9 @@ def parse(line):
 while not stop:
     line = s.recv(1024);
     print line.strip();
+    f = open("log.txt", "a");
+    f.write("%s\n" % line.strip());
+    f.close();
     if line.find("PRIVMSG %s" % irc['chan']) != 1:
         parse(line);
     if line.find("PING") != -1:
