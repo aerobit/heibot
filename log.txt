@@ -1,0 +1,116 @@
+:irc.uk.mibbit.net NOTICE AUTH :*** Looking up your hostname...
+:irc.uk.mibbit.net NOTICE AUTH :*** Couldn't resolve your hostname; using your IP address instead
+PING :2B962050
+:IRC!IRC@irc.uk.mibbit.net PRIVMSG heibot :VERSION
+:irc.uk.mibbit.net 001 heibot :Welcome to the Mibbit IRC Network heibot!heibot@98.206.22.165
+:irc.uk.mibbit.net 002 heibot :Your host is irc.uk.mibbit.net, running version Unreal3.2.8.1
+:irc.uk.mibbit.net 003 heibot :This server was created Thu May 5 2011 at 13:33:10 UTC
+:irc.uk.mibbit.net 004 heibot irc.uk.mibbit.net Unreal3.2.8.1 iowghraAsORTVSxNCWqBzvdHtGp lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGj
+:irc.uk.mibbit.net 005 heibot CMDS=KNOCK,MAP,DCCALLOW,USERIP UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:120,e:120,I:120 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+:irc.uk.mibbit.net 005 heibot MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTG NETWORK=Mibbit CASEMAPPING=ascii EXTBAN=~,cqnr ELIST=MNUCT :are supported by this server
+:irc.uk.mibbit.net 005 heibot STATUSMSG=~&@%+ EXCEPTS INVEX :are sup
+ported by this server
+:irc.uk.mibbit.net 251 heibot :There are 20 users and 3401 invisible on 3 servers
+:irc.uk.mibbit.net 252 heibot 17 :operator(s) online
+:irc.uk.mibbit.net 253 heibot 1 :unknown connection(s)
+:irc.uk.mibbit.net 254 heibot 1327 :channels formed
+:irc.uk.mibbit.net 255 heibot :I have 1933 clients and 1 servers
+:irc.uk.mibbit.net 265 heibot :Current Local Users: 1933  Max: 3885
+:irc.uk.mibbit.net 266 heibot :Current Global Users: 3421  Max: 7088
+:irc.uk.mibbit.net 375 heibot :- irc.uk.mibbit.net Message of the Day - 
+:irc.uk.mibbit.net 372 heibot :- 21/8/2011 12:50
+:irc.uk.mibbit.net 372 heibot :- Welcome to irc.mibbit.net
+:irc.uk.mibbit.net 372 heibot :-  _                      _ _     _     _ _                _   
+:irc.uk.mibbit.net 372 heibot :- (_)_ __ ___   _ __ ___ (_) |__ | |__ (_) |_   _ __   ___| |_ 
+:irc.uk.mibbit.net 372 heibot :- | | '__/ __| | '_ ` _ \| | '_ \| '_ \| | __| | '_ \ / _ \ __|
+:irc.uk.mibbit.net 372 heibot :- | | | | (__ _| | | | | | | |_) | |_) | | |_ _
+| | | |  __/ |_ 
+:irc.uk.mibbit.net 372 heibot :- |_|_|  \___(_)_| |_| |_|_|_.__/|_.__/|_|\__(_)_| |_|\___|\__|
+:irc.uk.mibbit.net 372 heibot :- 
+:irc.uk.mibbit.net 372 heibot :- This server is for individuals 13 years or older. Channels that
+:irc.uk.mibbit.net 372 heibot :- place themselves on Mibbit to issue and supply illegal items,
+:irc.uk.mibbit.net 372 heibot :- such as File Downloads, Music Tracks or other operations deemed
+:irc.uk.mibbit.net
+372 heibot :- Illegal will be removed, and/or reported to the relevant Internet
+:irc.uk.mibbit.net 372 heibot :- Service Providers, and/or authorities.
+:irc.uk.mibbit.net 372 heibot :- 
+:irc.uk.mibbit.net 372 heibot :- Please be friendly and watch your language in public channels.
+:irc.uk.mibbit.net 372 heibot :- Do not impersonate other users, abuse will not be tolerated.
+:irc.uk.mibbit.net 372 heibot :- 
+:irc.uk.mibbit.net 372 heibot :- Mibbit Staff:  Axod    Azander  Fastundia  Havvy   Hercule
+:irc.uk.mibbit.net 372 heibot :-                Joshua  Kitsune  Molkmin    Pottsi  Sindacious
+:irc.uk.mibbit.net 372 heibot :- 
+:irc.uk.mibbit.net 372 heibot :- Enjoy your stay :)
+:irc.uk.mibbit.net 372 heibot :- --axod
+:irc.uk.mibbit.net 376 heibot :End of /MOTD command.
+:heibot MODE heibot :+iwx
+:heibot!heibot@F4C7A360.2394FDCB.26C9456E.IP JOIN :#easyctf
+:irc.uk.mibbit.net 332 heibot #easyctf :EasyCTF 2014. No discussing problem details. Flag sharing is strictly prohibited. If you have a question, m
+essage anybody with an @ or ~ next to their name.
+:irc.uk.mibbit.net 333 heibot #easyctf alokpathy 1417116801
+:irc.uk.mibbit.net 353 heibot = #easyctf :heibot ~failedxyz &Bot 
+:irc.uk.mibbit.net 366 heibot #easyctf :End of /NAMES list.
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :hei
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :!roll
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :heibot leave
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :leave bitch
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :heibot leave
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP KICK #easyctf heibot :failedxyz
+:irc.uk.mibbit.net NOTICE AUTH :*** Looking up your hostname...
+:irc.uk.mibbit.net NOTICE AUTH :*** Couldn't resolve your hostname; using your IP address instead
+PING :9D6E8121
+:IRC!IRC@irc.uk.mibbit.net PRIVMSG heibot :VERSION
+:irc.uk.mibbit.net 001 heibot :Welcome to the Mibbit IRC Network heibot!heibot@98.206.22.165
+:irc.uk.mibbit.net 002 heibot :Your host is irc.uk.mibbit.net, running version Unreal3.2.8.1
+:irc.uk.mibbit.net 003 heibot :This server was created Thu May 5 2011 at 13:33:10 UTC
+:irc.uk.mibbit.net 004 heibot irc.uk.mibbit.net Unreal3.2.8.1 iowghraAsORTVSxNCWqBzvdHtGp lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGj
+:irc.uk.mibbit.net 005 heibot CMDS=KNOCK,MAP,DCCALLOW,USERIP UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:120,e:120,I:120 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+:irc.uk.mibbit.net 005 heibot MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTG NETWORK=Mibbit CASEMAPPING=ascii EXTBAN=~,cqnr ELIST=MNUCT :are supported by this server
+:irc.uk.mibbit.net 005 heibot STATUSMSG=~&@%+ EXCEPTS INVEX :are sup
+ported by this server
+:irc.uk.mibbit.net 251 heibot :There are 20 users and 3422 invisible on 3 servers
+:irc.uk.mibbit.net 252 heibot 17 :operator(s) online
+:irc.uk.mibbit.net 253 heibot 2 :unknown connection(s)
+:irc.uk.mibbit.net 254 heibot 1326 :channels formed
+:irc.uk.mibbit.net 255 heibot :I have 1938 clients and 1 servers
+:irc.uk.mibbit.net 265 heibot :Current Local Users: 1938  Max: 3885
+:irc.uk.mibbit.net 266 heibot :Current Global Users: 3442  Max: 7088
+:irc.uk.mibbit.net 375 heibot :- irc.uk.mibbit.net Message of the Day - 
+:irc.uk.mibbit.net 372 heibot :- 21/8/2011 12:50
+:irc.uk.mibbit.net 372 heibot :- Welcome to irc.mibbit.net
+:irc.uk.mibbit.net 372 heibot :-  _                      _ _     _     _ _                _   
+:irc.uk.mibbit.net 372 heibot :- (_)_ __ ___   _ __ ___ (_) |__ | |__ (_) |_   _ __   ___| |_ 
+:irc.uk.mibbit.net 372 heibot :- | | '__/ __| | '_ ` _ \| | '_ \| '_ \| | __| | '_ \ / _ \ __|
+:irc.uk.mibbit.net 372 heibot :- | | | | (__ _| | | | | | | |_) | |_) | | |_ _
+| | | |  __/ |_ 
+:irc.uk.mibbit.net 372 heibot :- |_|_|  \___(_)_| |_| |_|_|_.__/|_.__/|_|\__(_)_| |_|\___|\__|
+:irc.uk.mibbit.net 372 heibot :- 
+:irc.uk.mibbit.net 372 heibot :- This server is for individuals 13 years or older. Channels that
+:irc.uk.mibbit.net 372 heibot :- place themselves on Mibbit to issue and supply illegal items,
+:irc.uk.mibbit.net 372 heibot :- such as File Downloads, Music Tracks or other operations deemed
+:irc.uk.mibbit.net
+372 heibot :- Illegal will be removed, and/or reported to the relevant Internet
+:irc.uk.mibbit.net 372 heibot :- Service Providers, and/or authorities.
+:irc.uk.mibbit.net 372 heibot :- 
+:irc.uk.mibbit.net 372 heibot :- Please be friendly and watch your language in public channels.
+:irc.uk.mibbit.net 372 heibot :- Do not impersonate other users, abuse will not be tolerated.
+:irc.uk.mibbit.net 372 heibot :- 
+:irc.uk.mibbit.net 372 heibot :- Mibbit Staff:  Axod    Azander  Fastundia  Havvy   Hercule
+:irc.uk.mibbit.net 372 heibot :-                Joshua  Kitsune  Molkmin    Pottsi  Sindacious
+:irc.uk.mibbit.net 372 heibot :- 
+:irc.uk.mibbit.net 372 heibot :- Enjoy your stay :)
+:irc.uk.mibbit.net 372 heibot :- --axod
+:irc.uk.mibbit.net 376 heibot :End of /MOTD command.
+:heibot MODE heibot :+iwx
+:heibot!heibot@F4C7A360.2394FDCB.26C9456E.IP JOIN :#easyctf
+:irc.uk.mibbit.net 332 heibot #easyctf :EasyCTF 2014. No discussing problem details. Flag sharing is strictly prohibited. If you have a question, message anybody with an @ or ~ next to their name.
+:irc.uk.mibbit.net 333 heibot #easyctf alokpathy 1417116801
+:irc.uk.mibbit.net 353 heibot = #easyctf :heibot ~failedxyz &Bot 
+:irc.uk.mibbit.net 366 heibot #easyctf :End of /NAMES list.
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :hei
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :!roll
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :!roll hei
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :!roll 102510957
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :!roll -1
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :great
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :heibot leave

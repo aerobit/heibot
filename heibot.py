@@ -22,8 +22,11 @@ irc = {
     "chan": "#easyctf",
 }
 
+f = open("log.txt", "a");
+
 def parse(line):
-    if line.find("heibot leave") != -1:
+    if False: # line.find("heibot leave") != -1:
+        f.close();
         s.send("QUIT\n");
     else:
         if len(line.split(":")) == 3:
@@ -41,7 +44,7 @@ def parse(line):
                             highest = int(actual[1]);
                             if highest < 1:
                                 raise Exception()
-                            s.send("PRIVMSG %s :%s rolled %d\n" % (irc['chan'], username, random.randint(1, highest)));
+                        s.send("PRIVMSG %s :%s rolled %d\n" % (irc['chan'], username, random.randint(1, highest)));
                     except Exception:
                         a = 0;
                         s.send("PRIVMSG %s :fuck you %s\n" % (irc['chan'], username));
@@ -60,4 +63,6 @@ while not stop:
                 s.send("PRIVMSG %(chan)s :hei\n" % irc);
     if stop:
         break;
+
+
 
