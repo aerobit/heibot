@@ -32,7 +32,7 @@ def parse(line):
         if len(line.split(":")) == 3:
             username = line.split(":")[1].split("!")[0];
             message = line.split(":")[2];
-            if message.strip() in ["hi", "hei", "hello"]:
+            if message.strip().lower() in ["hi", "hei", "hello"]:
                 s.send("PRIVMSG %s :hei, %s\n" % (irc['chan'], username));
             if message.find("!") != -1:
                 actual = message[1:].split(" ");
