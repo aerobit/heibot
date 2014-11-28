@@ -1,8 +1,7 @@
 import sys;
 import socket;
 import string;
-
-global heicounter;
+import random;
 
 HOST = "irc.mibbit.net";
 PORT = 6667;
@@ -33,14 +32,23 @@ def parse(line):
             if message.strip() in ["hi", "hei", "hello"]:
                 s.send("PRIVMSG %s :hei, %s\n" % (irc['chan'], username));
             if message.find("!") != -1:
-                actual = message[1:];
-                command = actual.split(" ")[0];
-                if command.find("count") != -1:
-                    print "nothing is done";
+                actual = message[1:].split(" ");
+                command = actual[0];
+                if command.find("roll") != -1:
+                    highest = 1000;
+                    try:
+                        if len(actual) == 2:
+                            highest = int(actual[1]);
+                            if highest < 1:
+                                raise Exception()
+                            s.send("PRIVMSG %s :%s rolled %d\n" % (irc['chan'], username, random.randint(1, highest)));
+                    except Exception:
+                        a = 0;
+                        s.send("PRIVMSG %s :fuck you %s\n" % (irc['chan'], username));
 
 while not stop:
     line = s.recv(1024);
-    print line;
+    print line.strip();
     if line.find("PRIVMSG %s" % irc['chan']) != 1:
         parse(line);
     if line.find("PING") != -1:
