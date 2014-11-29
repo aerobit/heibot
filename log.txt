@@ -1,1 +1,296 @@
 
+:failedxyz!failedxyz@E0A525B5.23C2B866.AF7BAFD0.IP PRIVMSG #easyctf :hi
+:failedxyz!failedxyz@E0A525B5.23C2B866.AF7BAFD0.IP PRIVMSG #easyctf :!roll
+PING :irc.uk.mibbit.net
+:Brimstone!Brimstone@mib-7BA8D237.hsd1.il.comcast.net JOIN :#easyctf
+:Brimstone!Brimstone@mib-7BA8D237.hsd1.il.comcast.net PRIVMSG #easyctf :hei
+:failedxyz!failedxyz@E0A525B5.23C2B866.AF7BAFD0.IP PRIVMSG #easyctf :hei
+:Brimstone!Brimstone@mib-7BA8D237.hsd1.il.comcast.net PRIVMSG #easyctf :lol
+:failedxyz!failedxyz@E0A525B5.23C2B866.AF7BAFD0.IP PRIVMSG #easyctf :!roll
+:failedxyz!failedxyz@E0A525B5.23C2B866.AF7BAFD0.IP PRIVMSG #easyctf :rolling works now :D
+:Brimstone!Brimstone@mib-7BA8D237.hsd1.il.comcast.net PRIVMSG #easyctf :!roll 0
+:Brimstone!Brimstone@mib-7BA8D237.hsd1.il.comcast.net PRIVMSG #easyctf ::D:D:D:D:D:D
+PING :irc.uk.mibbit.net
+:Brimstone!Brimstone@mib-7BA8D237.hsd1.il.comcast.net PRIVMSG #easyctf :https://www.filepicker.io/api/file/nvE0WQnRQuQIr1N0RWZH
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+:failedxyz!failedxyz@E0A525B5.23C2B866.AF7BAFD0.IP PRIVMSG #easyctf :lol
+:failedxyz!failedxyz@E0A525B5.23C2B866.AF7BAFD0.IP PRIVMSG #easyctf :hei
+:failedxyz!failedxyz@E0A525B5.23C2B866.AF7BAFD0.IP QUIT :Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+:Brimstone!Brimstone@mib-7BA8D237.hsd1.il.comcast.net QUIT :Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+:jrni!e8dh2u@mib-35A9C3DC.washdc.fios.verizon.net PRIVMSG #easyctf :!roll
+:jrni!e8dh2u@mib-35A9C3DC.washdc.fios.verizon.net PRIVMSG #easyctf :hei
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+:AndroUser!androirc@E0A525B5.23C2B866.AF7BAFD0.IP QUIT :Ping timeout
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP JOIN :#easyctf
+:Bot!Bot@mibbit.com MODE #easyctf +qo failedxyz failedxyz
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :hi
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+PING :irc.uk.mibbit.net
+:Eleng555!Eleng555@D3A4093.7C23D987.26C9456E.IP JOIN :#easyctf
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :hi
+:Bot!Bot@mibbit.com MODE #easyctf +ao Eleng555 Eleng555
+:Eleng555!Eleng555@D3A4093.7C23D987.26C9456E.IP PRIVMSG #easyctf :hello
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :lol
+:Eleng555!Eleng555@D3A4093.7C23D987.26C9456E.IP PRIVMSG #easyctf :lol
+:Eleng555!Eleng555@D3A4093.7C23D987.26C9456E.IP PRIVMSG #easyctf :hei heibot
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :haven't implemented that yet
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :gg
+:Eleng555!Eleng555@D3A4093.7C23D987.26C9456E.IP PRIVMSG #easyctf :lol darn
+PING :irc.uk.mibbit.net
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :!roll
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :!roll
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :!roll
+:Eleng555!Eleng555@D3A4093.7C23D987.26C9456E.IP PRIVMSG #easyctf :wait what's the point of that
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :idk if you want to settle something with someon
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :e
+:Eleng555!Eleng555@D3A4093.7C23D987.26C9456E.IP PRIVMSG #easyctf :lol
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :let's see who rolls higher
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :!roll
+:Eleng555!Eleng555@D3A4093.7C23D987.26C9456E.IP PRIVMSG #easyctf :!roll
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf ::I
+:Eleng555!Eleng555@D3A4093.7C23D987.26C9456E.IP PRIVMSG #easyctf :gg
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :gg indeed
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :it's used in osu a lot
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :!roll 385728375923875
+:Eleng555!Eleng555@D3A4093.7C23D987.26C9456E.IP PRIVMSG #easyctf :what's the limit of the roll
+:Eleng555!Eleng555@D3A4093.7C23D987.26C9456E.IP PRIVMSG #easyctf :o
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :initially 1000
+:Eleng555!Eleng555@D3A4093.7C23D987.26C9456E.IP PRIVMSG #easyctf :you can set it?
+:Eleng555!Eleng555@D3A4093.7C23D987.26C9456E.IP PRIVMSG #easyctf :!roll 10000
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :yup
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :!roll -1
+:Eleng555!Eleng555@D3A4093.7C23D987.26C9456E.IP PRIVMSG #easyctf :it's not over 9000
+:Eleng555!Eleng555@D3A4093.7C23D987.26C9456E.IP PRIVMSG #easyctf :lo
+:Eleng555!Eleng555@D3A4093.7C23D987.26C9456E.IP PRIVMSG #easyctf :lol
+:Eleng555!Eleng555@D3A4093.7C23D987.26C9456E.IP PRIVMSG #easyctf :lolololol
+:Eleng555!Eleng555@D3A4093.7C23D987.26C9456E.IP PRIVMSG #easyctf :that is a great feature
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :yes
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :also for non-numbers
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :!roll hei
+:Eleng555!Eleng555@D3A4093.7C23D987.26C9456E.IP PRIVMSG #easyctf :lol
+:Eleng555!Eleng555@D3A4093.7C23D987.26C9456E.IP PRIVMSG #easyctf :!roll 0
+:Eleng555!Eleng555@D3A4093.7C23D987.26C9456E.IP PRIVMSG #easyctf :lol
+:Eleng555!Eleng555@D3A4093.7C23D987.26C9456E.IP PRIVMSG #easyctf :!roll 1
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :yes
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :a random number between 1 and 1
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :will always be 1
+:Eleng555!Eleng555@D3A4093.7C23D987.26C9456E.IP PRIVMSG #easyctf :wow that's totally not expected
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :indeed
+:Eleng555!Eleng555@D3A4093.7C23D987.26C9456E.IP PRIVMSG #easyctf :lol
+:Eleng555!Eleng555@D3A4093.7C23D987.26C9456E.IP PRIVMSG #easyctf :!roll 100000000000000000000000000000000000000
+:Eleng555!Eleng555@D3A4093.7C23D987.26C9456E.IP PRIVMSG #easyctf :holycrap lol
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :also the heibot is (supposedly) writing all this to a log
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :lol
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :!roll 850984370987509827305982704958270349857230498750239487520349875
+:Eleng555!Eleng555@D3A4093.7C23D987.26C9456E.IP PRIVMSG #easyctf :writing all the rolling and heis or like writing the whole irc?
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :the whole irc
+:Eleng555!Eleng555@D3A4093.7C23D987.26C9456E.IP PRIVMSG #easyctf :whats the limit to this roll
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :mainly what other people say
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :uh
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :what's python's largest possible number
+:Eleng555!Eleng555@D3A4093.7C23D987.26C9456E.IP PRIVMSG #easyctf :idk large
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :it says no defined limit
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :!roll 8905912038591230985719032758913258612038561832659013285961320956132897401392874098123985612930856123896509123609481723098470192374
+:Eleng555!Eleng555@D3A4093.7C23D987.26C9456E.IP PRIVMSG #easyctf :gg float("inf")
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :!roll 890591203859123098571903275891325861203856183265901328596132095613289740139287409812398561293085612389650912360948172309847019237498325798213750182370159827304918326409812362394875629487569237460160293860192837401928734019238460129386401293874
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :lol
+:Eleng555!Eleng555@D3A4093.7C23D987.26C9456E.IP PRIVMSG #easyctf :infinity is the largest lol
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :yeah
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :!roll -1]
+:Eleng555!Eleng555@D3A4093.7C23D987.26C9456E.IP PRIVMSG #easyctf :!roll ∞
+:Eleng555!Eleng555@D3A4093.7C23D987.26C9456E.IP PRIVMSG #easyctf :lol
+:Eleng555!Eleng555@D3A4093.7C23D987.26C9456E.IP PRIVMSG #easyctf :what a shame
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf ::o
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :↨6
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :whoops
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :∞
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :i should have it detect that
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :but then
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :what would i set my limit to be
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :oh
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :float("inf")
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :lol
+:Eleng555!Eleng555@D3A4093.7C23D987.26C9456E.IP PRIVMSG #easyctf :lol yeah
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf ::I
+:Eleng555!Eleng555@D3A4093.7C23D987.26C9456E.IP PRIVMSG #easyctf :wait the irc description says to message anyone with a @ or ~
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :i should write some games
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :yeah
+:Eleng555!Eleng555@D3A4093.7C23D987.26C9456E.IP PRIVMSG #easyctf :what does the & mean
+:Eleng555!Eleng555@D3A4093.7C23D987.26C9456E.IP PRIVMSG #easyctf :lol
