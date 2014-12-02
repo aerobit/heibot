@@ -8,6 +8,9 @@ PORT = 6667;
 NICK = "heibot";
 CHANNEL = "#easyctf";
 
+words = [i for i in open("wordlist.txt").read().split("\n") if len(i)>4];
+outcomes = ["It is certain", "It is decidedly so", "Without a doubt", "Yes definitely", "You may rely on it", "As I see it, yes", "Most likely", "Outlook good", "Yes", "Signs point to yes", "Reply hazy try again", "Ask again later", "Better not tell you now", "Cannot predict now", "Concentrate and ask again ", "Don't count on it", "My reply is no", "My sources say no", "Outlook not so good", "Very doubtful", "no.", "START", "A", "B", "UP", "DOWN", "LEFT", "RIGHT", "SELECT"];
+
 s = socket.socket();
 s.connect((HOST, PORT));
 s.send("NICK "+NICK+"\n");
@@ -24,6 +27,16 @@ irc = {
 
 # f = open("log.txt", "a");
 
+bitches = set();
+
+def generate_flag():
+    flag = "";
+    for i in range(6):
+        if i != 0:
+            flag += "_";
+        flag += random.choice(words);
+    return flag;
+
 def parse(line):
     if False: # line.find("heibot leave") != -1:
         # f.close();
@@ -32,8 +45,13 @@ def parse(line):
         if len(line.split(":")) == 3:
             username = line.split(":")[1].split("!")[0];
             message = line.split(":")[2];
-            if message.strip().lower() in ["hi", "hei", "hello"]:
-                s.send("PRIVMSG %s :hei, %s\n" % (irc['chan'], username));
+            if message.split(" ")[0].strip().lower() in ["hi", "hei", "hello"]:
+                if random.randint(1, 1000) > 800:
+                    s.send("PRIVMSG %s :hei, %s\n" % (irc['chan'], username));
+                else:
+                    s.send("PRIVMSG %s :fuck you, %s, i hope you die a horribly gruesome death\n" % (irc['chan'], username));
+            if message.split(" ")[0].strip().lower() in ["lol"]:
+                s.send("PRIVMSG %s :%s, but did you actually laugh out loud?\n" % (irc['chan'], username));
             if message.find("!") != -1:
                 actual = message[1:].split(" ");
                 command = actual[0];
@@ -48,6 +66,31 @@ def parse(line):
                     except Exception:
                         a = 0;
                         s.send("PRIVMSG %s :fuck you %s\n" % (irc['chan'], username));
+                elif command.find("flag") != -1:
+                    try:
+                        problem = message[6:];
+                        if len(problem) < 1:
+                            raise Exception();
+                        s.send("PRIVMSG %s :%s, sending the flag for \"%s\" to you in private message!\n" % (irc['chan'], username, problem));
+                        s.send("PRIVMSG %s :%s\n" % (username, generate_flag()));
+                    except Exception:
+                        s.send("PRIVMSG %s :Usage: !flag [problem_name]\n" % (irc['chan']));
+                elif command.find("md5") != -1:
+                    try:
+                        stuff = message[5:];
+                        if len(stuff) < 1:
+                            raise Exception();
+                        s.send("PRIVMSG %s :md5 of \"%s\" is %s\n" % (irc['chan'], stuff, __import__("hashlib").md5(stuff).hexdigest()));
+                    except Exception:
+                        s.send("PRIVMSG %s :Usage: !md5 [stuff]\n" % (irc['chan']));
+                elif command.find("helixfossil") != -1 or command.find("hf") != -1:
+                    s.send("PRIVMSG %s :%s, %s\n" % (irc['chan'], username, random.choice(outcomes)));
+                elif command.find("<3") != -1:
+                    bitches.add(username);
+                    s.send("PRIVMSG %s :<3 %s\n" % (irc['chan'], username));
+                elif command.find("bitches") != -1:
+                    s.send("PRIVMSG %s :My bitches are: %s\n" % (irc['chan'], ", ".join(list(bitches))));
+                
 
 while not stop:
     line = s.recv(1024);
