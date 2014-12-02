@@ -38,15 +38,19 @@ def generate_flag():
     return flag;
 
 def parse(line):
-    if False: # line.find("heibot leave") != -1:
+    if False: #line.find("heibot leave") != -1:
         # f.close();
         s.send("QUIT\n");
+        s.send("NICK "+NICK+"\n");
+        s.send("USER "+NICK+" "+NICK+" "+NICK+" :"+NICK+"\n");
     else:
         if len(line.split(":")) == 3:
             username = line.split(":")[1].split("!")[0];
             message = line.split(":")[2];
             if message.split(" ")[0].strip().lower() in ["hi", "hei", "hello"]:
-                if random.randint(1, 1000) > 800:
+                random.seed();
+                k = random.randint(1, 1000);
+                if k < 900:
                     s.send("PRIVMSG %s :hei, %s\n" % (irc['chan'], username));
                 else:
                     s.send("PRIVMSG %s :fuck you, %s, i hope you die a horribly gruesome death\n" % (irc['chan'], username));
