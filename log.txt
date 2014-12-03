@@ -16140,3 +16140,633 @@ bEdelman &Eleng555 @alokpathy &Bot sdamashek bob Kent jrni ma [bumbuu]ben saxx c
 :failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :`roll 1000
 :failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :`solved failedxyz
 :failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :`top 10
+:irc.us.mibbit.net NOTICE AUTH :*** Looking up your hostname...
+:irc.us.mibbit.net NOTICE AUTH :*** Found your hostname
+PING :ACFA02DE
+:IRC!IRC@irc.us.mibbit.net PRIVMSG geibot :VERSION
+:irc.us.mibbit.net 001 geibot :Welcome to the Mibbit IRC Network geibot!geibot@CPE00222d5ac7b0-CM00222d5ac7ad.cpe.net.cable.rogers.com
+:irc.us.mibbit.net 002 geibot :Your host is irc.us.mibbit.net, running version Unreal3.2.10.4
+:irc.us.mibbit.net 003 geibot :This server was created Tue Dec 2 2014 at 00:02:39 UTC
+:irc.us.mibbit.net 004 geibot irc.us.mibbit.net Unreal3.2.10.4 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+:irc.us.mibbit.net 005 geibot CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:120,e:120,I:120 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+:irc.us.mibbit.net 005 geibot MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=Mibbit CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT :are supported by this server
+:irc.us.m
+ibbit.net 005 geibot STATUSMSG=~&@%+ EXCEPTS INVEX :are supported by this server
+:irc.us.mibbit.net 251 geibot :There are 21 users and 3635 invisible on 4 servers
+:irc.us.mibbit.net 252 geibot 20 :operator(s) online
+:irc.us.mibbit.net 253 geibot 3 :unknown connection(s)
+:irc.us.mibbit.net 254 geibot 1340 :channels formed
+:irc.us.mibbit.net 255 geibot :I have 1385 clients and 1 servers
+:irc.us.mibbit.net 265 geibot 1385 1387 :Current local users 1385, max 1387
+:irc.us.mibbit.net 266 geibot 3656 7088 :Current global users 3656, max 7088
+:irc.us.mibbit.net 375 geibot :- irc.us.mibbit.net Message of the Day - 
+:irc.us.mibbit.net 372 geibot :- 2/12/2014 13:42
+:irc.us.mibbit.net 372 geibot :- Welcome to irc.mibbit.net
+:irc.us.mibbit.net 372 geibot :-  _                      _ _     _     _ _                _   
+:irc.us.mibbit.net 372 geibot :- (_)_ __ ___   _ __ ___ (_) |__ | |__ (_) |_   _ __   ___| |_ 
+:irc.us.mibbit.net 372 geibot :- | | '__/ __| | '_ ` _ \| | '_ \| '_ \| | __| | '_ \ / _ \ __|
+:irc.us.mibbit.net 372 geibot :- | | | | (__ _| | | | | | | |_) | |_) | | |_ _| | | |
+__/ |_ 
+:irc.us.mibbit.net 372 geibot :- |_|_|  \___(_)_| |_| |_|_|_.__/|_.__/|_|\__(_)_| |_|\___|\__|
+:irc.us.mibbit.net 372 geibot :- 
+:irc.us.mibbit.net 372 geibot :- This server is for individuals 13 years or older. Channels that
+:irc.us.mibbit.net 372 geibot :- place themselves on Mibbit to issue and supply illegal items,
+:irc.us.mibbit.net 372 geibot :- such as File Downloads, Music Tracks or other operation
+s deemed
+:irc.us.mibbit.net 372 geibot :- Illegal will be removed, and/or reported to the relevant Internet
+:irc.us.mibbit.net 372 geibot :- Service Providers, and/or authorities.
+:irc.us.mibbit.net 372 geibot :- 
+:irc.us.mibbit.net 372 geibot :- Please be friendly and watch your language in public channels.
+:irc.us.mibbit.net 372 geibot :- Do not impersonate other users, abuse will not be tolerated.
+:irc.us.mibbit.net 372 geibot :- 
+:irc.us.mibbit.net 372 geibot :- Mibbit Staff:  Axod    Azander  Fastundia  Havvy   Hercule
+:irc.us.mibbit.net 372 geibot :-                Joshua  Kitsune  Molkmin    Pottsi  Sindacious
+:irc.us.mibbit.net 372 geibot :- 
+:irc.us.mibbit.net 372 geibot :- Enjoy your stay :)
+:irc.us.mibbit.net 372 geibot :- --axod
+:irc.us.mibbit.net 376 geibot :End of /MOTD command.
+:geibot MODE geibot :+iwx
+:geibot!geibot@mib-81EFD0A1.cpe.net.cable.rogers.com JOIN :#easyctf
+:irc.us.mibbit.net 332 geibot #easyctf :EasyCTF 2014. Rules: USE COMMON SENSE. Don't share flags. If you need help, ask someone with a ~ or & or @ next to their username. If you're feeling helpful, contribute to heibot at http://github.com/failedxyz/heibot
+:irc.us.mibbit.net 333 geibot #easyctf alokpathy 1417623385
+:irc.us.mibbit.net 353 geibot = #easyctf :geibot ~failedxyz Spaghetti_And_Memeballs faiIedxyz chaosagent LittleBottyTable JacobEdelman @alokpathy @heibot SPECTRiXz ` Ahri &Eleng555 cptnXn saxx [bumbuu]ben ma jrni Kent bob sdamashek &Bot 
+:irc.us.mibbit.net 366 geibot #easyctf :End of /NAMES list.
+:irc.us.mibbit.net 482 geibot #easyctf :You're not channel operator
+:heibot!heibot@A1719792.E3D689F6.BDE939D3.IP KICK #easyctf geibot :heibot is the only real bot
+:Kitsune_!Mibbit@kitsune.staff.mibbit.net PRIVMSG geibot :VERSION
+:irc.uk.mibbit.net NOTICE AUTH :*** Looking up your hostname...
+:irc.uk.mibbit.net NOTICE AUTH :*** Found your hostname
+PING :C044ACC5
+:IRC!IRC@irc.uk.mibbit.net PRIVMSG geibot :VERSION
+:irc.uk.mibbit.net 001 geibot :Welcome to the Mibbit IRC Network geibot!geibot@CPE00222d5ac7b0-CM00222d5ac7ad.cpe.net.cable.rogers.com
+:irc.uk.mibbit.net 002 geibot :Your host is irc.uk.mibbit.net, running version Unreal3.2.8.1
+:irc.uk.mibbit.net 003 geibot :This server was created Thu May 5 2011 at 13:33:10 UTC
+:irc.uk.mibbit.net 004 geibot irc.uk.mibbit.net Unreal3.2.8.1 iowghraAsORTVSxNCWqBzvdHtGp lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGj
+:irc.uk.mibbit.net 005 geibot CMDS=KNOCK,MAP,DCCALLOW,USERIP UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:120,e:120,I:120 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+:irc.uk.mibbit.net 005 geibot MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTG NETWORK=Mibbit CASEMAPPING=ascii EXTBAN=~,cqnr ELIST=MNUCT :are supported by this server
+:irc.uk.mibbit.net 005 gei
+bot STATUSMSG=~&@%+ EXCEPTS INVEX :are supported by this server
+:irc.uk.mibbit.net 251 geibot :There are 21 users and 3641 invisible on 4 servers
+:irc.uk.mibbit.net 252 geibot 20 :operator(s) online
+:irc.uk.mibbit.net 253 geibot 2 :unknown connection(s)
+:irc.uk.mibbit.net 254 geibot 1340 :channels formed
+:irc.uk.mibbit.net 255 geibot :I have 1813 clients and 3 servers
+:irc.uk.mibbit.net 265 geibot :Current Local Users: 1813  Max: 3885
+:irc.uk.mibbit.net 266 geibot :Current Global Users: 3662  Max: 7088
+:irc.uk.mibbit.net 375 geibot :- irc.uk.mibbit.net Message of the Day - 
+:irc.uk.mibbit.net 372 geibot :- 21/8/2011 12:50
+:irc.uk.mibbit.net 372 geibot :- Welcome to irc.mibbit.net
+:irc.uk.mibbit.net 372 geibot :-  _                      _ _     _     _ _                _   
+:irc.uk.mibbit.net 372 geibot :- (_)_ __ ___   _ __ ___ (_) |__ | |__ (_) |_   _ __   ___| |_ 
+:irc.uk.mibbit.net 372 geibot :- | | '__/ __| | '_ ` _ \| | '_ \| '_ \| | __| | '_ \ / _ \ __|
+:irc.uk.mibbit.net 372 geibot :- | | | | (__ _| | | | | | | |_) | |_) | | |_ _| | | |  __/ |_ 
+:irc.
+uk.mibbit.net 372 geibot :- |_|_|  \___(_)_| |_| |_|_|_.__/|_.__/|_|\__(_)_| |_|\___|\__|
+:irc.uk.mibbit.net 372 geibot :- 
+:irc.uk.mibbit.net 372 geibot :- This server is for individuals 13 years or older. Channels that
+:irc.uk.mibbit.net 372 geibot :- place themselves on Mibbit to issue and supply illegal items,
+:irc.uk.mibbit.net 372 geibot :- such as File Downloads, Music Tracks or other operations deemed
+:irc.u
+k.mibbit.net 372 geibot :- Illegal will be removed, and/or reported to the relevant Internet
+:irc.uk.mibbit.net 372 geibot :- Service Providers, and/or authorities.
+:irc.uk.mibbit.net 372 geibot :- 
+:irc.uk.mibbit.net 372 geibot :- Please be friendly and watch your language in public channels.
+:irc.uk.mibbit.net 372 geibot :- Do not impersonate other users, abuse will not be tolerated.
+:irc.uk.mibbit.net 372 geibot :- 
+:irc.uk.mibbit.net 372 geibot :- Mibbit Staff:  Axod    Azander  Fastundia  Havvy   Hercule
+:irc.uk.mibbit.net 372 geibot :-                Joshua  Kitsune  Molkmin    Pottsi  Sindacious
+:irc.uk.mibbit.net 372 geibot :- 
+:irc.uk.mibbit.net 372 geibot :- Enjoy your stay :)
+:irc.uk.mibbit.net 372 geibot :- --axod
+:irc.uk.mibbit.net 376 geibot :End of /MOTD command.
+:geibot MODE geibot :+iwx
+:geibot!geibot@mib-81EFD0A1.cpe.net.cable.rogers.com JOIN :#test
+:irc.uk.mibbit.net 332 geibot #test :8,4 DO NOT PM without asking first!  Welcome to Mibbit's Testing room | See #help for Mibb
+it assistance
+:irc.uk.mibbit.net 333 geibot #test Hercule 1331108009
+:irc.uk.mibbit.net 353 geibot = #test :geibot Ahri Herc Tusk Kitsune &Bot @pottsi Magiobiwan ustreamer-003128 
+:irc.uk.mibbit.net 366 geibot #test :End of /NAMES list.
+:Ahri!Ahri@mib-81EFD0A1.cpe.net.cable.rogers.com PRIVMSG #test :`roulette
+:irc.us.mibbit.net NOTICE AUTH :*** Looking up your hostname...
+:irc.us.mibbit.net NOTICE AUTH :*** Found your hostname (cached)
+PING :E06F977E
+:IRC!IRC@irc.us.mibbit.net PRIVMSG geibot :VERSION
+:irc.us.mibbit.net 001 geibot :Welcome to the Mibbit IRC Network geibot!geibot@CPE00222d5ac7b0-CM00222d5ac7ad.cpe.net.cable.rogers.com
+:irc.us.mibbit.net 002 geibot :Your host is irc.us.mibbit.net, running version Unreal3.2.10.4
+:irc.us.mibbit.net 003 geibot :This server was created Tue Dec 2 2014 at 00:02:39 UTC
+:irc.us.mibbit.net 004 geibot irc.us.mibbit.net Unreal3.2.10.4 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+:irc.us.mibbit.net 005 geibot CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:120,e:120,I:120 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+:irc.us.mibbit.net 005 geibot MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=Mibbit CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT :are supported by this server
+:irc.us.m
+ibbit.net 005 geibot STATUSMSG=~&@%+ EXCEPTS INVEX :are supported by this server
+:irc.us.mibbit.net 251 geibot :There are 20 users and 3639 invisible on 4 servers
+:irc.us.mibbit.net 252 geibot 20 :operator(s) online
+:irc.us.mibbit.net 254 geibot 1340 :channels formed
+:irc.us.mibbit.net 255 geibot :I have 1391 clients and 1 servers
+:irc.us.mibbit.net 265 geibot 1391 1396 :Current local users 1391, max 1396
+:irc.us.mibbit.net 266 geibot 3659 7088 :Current global users 3659, max 7088
+:irc.us.mibbit.net 375 geibot :- irc.us.mibbit.net Message of the Day - 
+:irc.us.mibbit.net 372 geibot :- 2/12/2014 13:42
+:irc.us.mibbit.net 372 geibot :- Welcome to irc.mibbit.net
+:irc.us.mibbit.net 372 geibot :-  _                      _ _     _     _ _                _   
+:irc.us.mibbit.net 372 geibot :- (_)_ __ ___   _ __ ___ (_) |__ | |__ (_) |_   _ __   ___| |_ 
+:irc.us.mibbit.net 372 geibot :- | | '__/ __| | '_ ` _ \| | '_ \| '_ \| | __| | '_ \ / _ \ __|
+:irc.us.mibbit.net 372 geibot :- | | | | (__ _| | | | | | | |_) | |_) | | |_ _| | | |  __/ |_ 
+:irc.us.mibbit.net 372 geibot :- |_|_|  \___(
+_)_| |_| |_|_|_.__/|_.__/|_|\__(_)_| |_|\___|\__|
+:irc.us.mibbit.net 372 geibot :- 
+:irc.us.mibbit.net 372 geibot :- This server is for individuals 13 years or older. Channels that
+:irc.us.mibbit.net 372 geibot :- place themselves on Mibbit to issue and supply illegal items,
+:irc.us.mibbit.net 372 geibot :- such as File Downloads, Music Tracks or other operations deemed
+:irc.us.mibbit.net 372 geibot :- Illegal will
+be removed, and/or reported to the relevant Internet
+:irc.us.mibbit.net 372 geibot :- Service Providers, and/or authorities.
+:irc.us.mibbit.net 372 geibot :- 
+:irc.us.mibbit.net 372 geibot :- Please be friendly and watch your language in public channels.
+:irc.us.mibbit.net 372 geibot :- Do not impersonate other users, abuse will not be tolerated.
+:irc.us.mibbit.net 372 geibot :- 
+:irc.us.mibbit.net 372 geibot :- Mibbit Staff:  Axod    Azander  Fastundia  Havvy   Hercule
+:irc.us.mibbit.net 372 geibot :-                Joshua  Kitsune  Molkmin    Pottsi  Sindacious
+:irc.us.mibbit.net 372 geibot :- 
+:irc.us.mibbit.net 372 geibot :- Enjoy your stay :)
+:irc.us.mibbit.net 372 geibot :- --axod
+:irc.us.mibbit.net 376 geibot :End of /MOTD command.
+:geibot MODE geibot :+iwx
+:geibot!geibot@mib-81EFD0A1.cpe.net.cable.rogers.com JOIN :#test
+:irc.us.mibbit.net 332 geibot #test :8,4 DO NOT PM without asking first!  Welcome to Mibbit's Testing room | See #help for Mibbit assistance
+:irc.us.mibbit.net 333 geibot #test Hercule 1331108009
+:irc.us.mibbit.net 353 geibot = #test :geibot Ahri Herc Tusk Kitsune ustreamer-003128 Magiobiwan @pottsi &Bot 
+:irc.us.mibbit.net 366 geibot #test :End of /NAMES list.
+:Ahri!Ahri@mib-81EFD0A1.cpe.net.cable.rogers.com PRIVMSG #test :`roulette
+:irc.uk.mibbit.net NOTICE AUTH :*** Looking up your hostname...
+:irc.uk.mibbit.net NOTICE AUTH :*** Found your hostname (cached)
+PING :159123C6
+:IRC!IRC@irc.uk.mibbit.net PRIVMSG geibot :VERSION
+:irc.uk.mibbit.net 001 geibot :Welcome to the Mibbit IRC Network geibot!geibot@CPE00222d5ac7b0-CM00222d5ac7ad.cpe.net.cable.rogers.com
+:irc.uk.mibbit.net 002 geibot :Your host is irc.uk.mibbit.net, running version Unreal3.2.8.1
+:irc.uk.mibbit.net 003 geibot :This server was created Thu May 5 2011 at 13:33:10 UTC
+:irc.uk.mibbit.net 004 geibot irc.uk.mibbit.net Unreal3.2.8.1 iowghraAsORTVSxNCWqBzvdHtGp lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGj
+:irc.uk.mibbit.net 005 geibot CMDS=KNOCK,MAP,DCCALLOW,USERIP UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:120,e:120,I:120 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+:irc.uk.mibbit.net 005 geibot MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTG NETWORK=Mibbit CASEMAPPING=ascii EXTBAN=~,cqnr ELIST=MNUCT :are supported by this server
+:irc.uk.mibbit.net 005 gei
+bot STATUSMSG=~&@%+ EXCEPTS INVEX :are supported by this server
+:irc.uk.mibbit.net 251 geibot :There are 21 users and 3634 invisible on 4 servers
+:irc.uk.mibbit.net 252 geibot 20 :operator(s) online
+:irc.uk.mibbit.net 253 geibot 3 :unknown connection(s)
+:irc.uk.mibbit.net 254 geibot 1342 :channels formed
+:irc.uk.mibbit.net 255 geibot :I have 1808 clients and 3 servers
+:irc.uk.mibbit.net 265 geibot :Current Local Users: 1808  Max: 3885
+:irc.uk.mibbit.net 266 geibot :Current Global Users: 3655  Max: 7088
+:irc.uk.mibbit.net 375 geibot :- irc.uk.mibbit.net Message of the Day - 
+:irc.uk.mibbit.net 372 geibot :- 21/8/2011 12:50
+:irc.uk.mibbit.net 372 geibot :- Welcome to irc.mibbit.net
+:irc.uk.mibbit.net 372 geibot :-  _                      _ _     _     _ _                _   
+:irc.uk.mibbit.net 372 geibot :- (_)_ __ ___   _ __ ___ (_) |__ | |__ (_) |_   _ __   ___| |_ 
+:irc.uk.mibbit.net 372 geibot :- | | '__/ __| | '_ ` _ \| | '_ \| '_ \| | __| | '_ \ / _ \ __|
+:irc.uk.mibbit.net 372 geibot :- | | | | (__ _| | | | | | | |_) | |_) | | |_ _| | | |  __/ |_ 
+:irc.
+uk.mibbit.net 372 geibot :- |_|_|  \___(_)_| |_| |_|_|_.__/|_.__/|_|\__(_)_| |_|\___|\__|
+:irc.uk.mibbit.net 372 geibot :- 
+:irc.uk.mibbit.net 372 geibot :- This server is for individuals 13 years or older. Channels that
+:irc.uk.mibbit.net 372 geibot :- place themselves on Mibbit to issue and supply illegal items,
+:irc.uk.mibbit.net 372 geibot :- such as File Downloads, Music Tracks or other operations deemed
+:irc.u
+k.mibbit.net 372 geibot :- Illegal will be removed, and/or reported to the relevant Internet
+:irc.uk.mibbit.net 372 geibot :- Service Providers, and/or authorities.
+:irc.uk.mibbit.net 372 geibot :- 
+:irc.uk.mibbit.net 372 geibot :- Please be friendly and watch your language in public channels.
+:irc.uk.mibbit.net 372 geibot :- Do not impersonate other users, abuse will not be tolerated.
+:irc.uk.mibbit.net 372 geibot :- 
+:irc.uk.mibbit.net 372 geibot :- Mibbit Staff:  Axod    Azander  Fastundia  Havvy   Hercule
+:irc.uk.mibbit.net 372 geibot :-                Joshua  Kitsune  Molkmin    Pottsi  Sindacious
+:irc.uk.mibbit.net 372 geibot :- 
+:irc.uk.mibbit.net 372 geibot :- Enjoy your stay :)
+:irc.uk.mibbit.net 372 geibot :- --axod
+:irc.uk.mibbit.net 376 geibot :End of /MOTD command.
+:geibot MODE geibot :+iwx
+:geibot!geibot@mib-81EFD0A1.cpe.net.cable.rogers.com JOIN :#fuckyou
+:irc.uk.mibbit.net 353 geibot = #fuckyou :geibot @Ahri 
+:irc.uk.mibbit.net 366 geibot #fuckyou :End of /NAMES list.
+:Ahri!Ahri@mib-81EFD0A1.cpe.net.cable.rogers.com MODE #fuckyou +o geibot
+:Ahri!Ahri@mib-81EFD0A1.cpe.net.cable.rogers.com PRIVMSG #fuckyou :`roulette
+:Ahri!Ahri@mib-81EFD0A1.cpe.net.cable.rogers.com PRIVMSG #fuckyou :`roulette
+:Ahri!Ahri@mib-81EFD0A1.cpe.net.cable.rogers.com PRIVMSG #fuckyou :`roulette
+:Ahri!Ahri@mib-81EFD0A1.cpe.net.cable.rogers.com PRIVMSG #fuckyou :wtf
+:Ahri!Ahri@mib-81EFD0A1.cpe.net.cable.rogers.com PRIVMSG #fuckyou :hi
+:Ahri!Ahri@mib-81EFD0A1.cpe.net.cable.rogers.com PRIVMSG #fuckyou :hi
+:Ahri!Ahri@mib-81EFD0A1.cpe.net.cable.rogers.com PRIVMSG #fuckyou :what
+:irc.us.mibbit.net NOTICE AUTH :*** Looking up your hostname...
+:irc.us.mibbit.net NOTICE AUTH :*** Found your hostname (cached)
+PING :4BDA46FB
+:IRC!IRC@irc.us.mibbit.net PRIVMSG geibot :VERSION
+:irc.us.mibbit.net 001 geibot :Welcome to the Mibbit IRC Network geibot!geibot@CPE00222d5ac7b0-CM00222d5ac7ad.cpe.net.cable.rogers.com
+:irc.us.mibbit.net 002 geibot :Your host is irc.us.mibbit.net, running version Unreal3.2.10.4
+:irc.us.mibbit.net 003 geibot :This server was created Tue Dec 2 2014 at 00:02:39 UTC
+:irc.us.mibbit.net 004 geibot irc.us.mibbit.net Unreal3.2.10.4 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+:irc.us.mibbit.net 005 geibot CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:120,e:120,I:120 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+:irc.us.mibbit.net 005 geibot MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=Mibbit CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT :are supported by this server
+:irc.us.m
+ibbit.net 005 geibot STATUSMSG=~&@%+ EXCEPTS INVEX :are supported by this server
+:irc.us.mibbit.net 251 geibot :There are 20 users and 3640 invisible on 4 servers
+:irc.us.mibbit.net 252 geibot 20 :operator(s) online
+:irc.us.mibbit.net 253 geibot 2 :unknown connection(s)
+:irc.us.mibbit.net 254 geibot 1343 :channels formed
+:irc.us.mibbit.net 255 geibot :I have 1402 clients and 1 servers
+:irc.us.mibbit.net 265 geibot 1402 1402 :Current local users 1402, max 1402
+:irc.us.mibbit.net 266 geibot 3660 7088 :Current global users 3660, max 7088
+:irc.us.mibbit.net 375 geibot :- irc.us.mibbit.net Message of the Day - 
+:irc.us.mibbit.net 372 geibot :- 2/12/2014 13:42
+:irc.us.mibbit.net 372 geibot :- Welcome to irc.mibbit.net
+:irc.us.mibbit.net 372 geibot :-  _                      _ _     _     _ _                _   
+:irc.us.mibbit.net 372 geibot :- (_)_ __ ___   _ __ ___ (_) |__ | |__ (_) |_   _ __   ___| |_ 
+:irc.us.mibbit.net 372 geibot :- | | '__/ __| | '_ ` _ \| | '_ \| '_ \| | __| | '_ \ / _ \ __|
+:irc.us.mibbit.net 372 geibot :- | | | | (__ _| | | | | | | |_) | |_) | | |_ _| | | |
+__/ |_ 
+:irc.us.mibbit.net 372 geibot :- |_|_|  \___(_)_| |_| |_|_|_.__/|_.__/|_|\__(_)_| |_|\___|\__|
+:irc.us.mibbit.net 372 geibot :- 
+:irc.us.mibbit.net 372 geibot :- This server is for individuals 13 years or older. Channels that
+:irc.us.mibbit.net 372 geibot :- place themselves on Mibbit to issue and supply illegal items,
+:irc.us.mibbit.net 372 geibot :- such as File Downloads, Music Tracks or other operation
+s deemed
+:irc.us.mibbit.net 372 geibot :- Illegal will be removed, and/or reported to the relevant Internet
+:irc.us.mibbit.net 372 geibot :- Service Providers, and/or authorities.
+:irc.us.mibbit.net 372 geibot :- 
+:irc.us.mibbit.net 372 geibot :- Please be friendly and watch your language in public channels.
+:irc.us.mibbit.net 372 geibot :- Do not impersonate other users, abuse will not be tolerated.
+:irc.us.mibbit.net 372 geibot :- 
+:irc.us.mibbit.net 372 geibot :- Mibbit Staff:  Axod    Azander  Fastundia  Havvy   Hercule
+:irc.us.mibbit.net 372 geibot :-                Joshua  Kitsune  Molkmin    Pottsi  Sindacious
+:irc.us.mibbit.net 372 geibot :- 
+:irc.us.mibbit.net 372 geibot :- Enjoy your stay :)
+:irc.us.mibbit.net 372 geibot :- --axod
+:irc.us.mibbit.net 376 geibot :End of /MOTD command.
+:geibot MODE geibot :+iwx
+:geibot!geibot@mib-81EFD0A1.cpe.net.cable.rogers.com JOIN :#fuckyou
+:irc.us.mibbit.net 353 geibot = #fuckyou :geibot @Ahri 
+:irc.us.mibbit.net 366 geibot #fuckyou :End of /NAMES list.
+:Ahri!Ahri@mib-81EFD0A1.cpe.net.cable.rogers.com MODE #fuckyou +o geibot
+:Ahri!Ahri@mib-81EFD0A1.cpe.net.cable.rogers.com PRIVMSG #fuckyou :hi
+:Ahri!Ahri@mib-81EFD0A1.cpe.net.cable.rogers.com PRIVMSG #fuckyou :`roulette
+:Ahri!Ahri@mib-81EFD0A1.cpe.net.cable.rogers.com PRIVMSG #fuckyou :`roulette
+:irc.us.mibbit.net NOTICE AUTH :*** Looking up your hostname...
+:irc.us.mibbit.net NOTICE AUTH :*** Found your hostname (cached)
+PING :E8F13BB7
+:IRC!IRC@irc.us.mibbit.net PRIVMSG geibot :VERSION
+:irc.us.mibbit.net 001 geibot :Welcome to the Mibbit IRC Network geibot!geibot@CPE00222d5ac7b0-CM00222d5ac7ad.cpe.net.cable.rogers.com
+:irc.us.mibbit.net 002 geibot :Your host is irc.us.mibbit.net, running version Unreal3.2.10.4
+:irc.us.mibbit.net 003 geibot :This server was created Tue Dec 2 2014 at 00:02:39 UTC
+:irc.us.mibbit.net 004 geibot irc.us.mibbit.net Unreal3.2.10.4 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+:irc.us.mibbit.net 005 geibot CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:120,e:120,I:120 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+:irc.us.mibbit.net 005 geibot MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=Mibbit CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT :are supported by this server
+:irc.us.m
+ibbit.net 005 geibot STATUSMSG=~&@%+ EXCEPTS INVEX :are supported by this server
+:irc.us.mibbit.net 251 geibot :There are 21 users and 3639 invisible on 4 servers
+:irc.us.mibbit.net 252 geibot 20 :operator(s) online
+:irc.us.mibbit.net 254 geibot 1339 :channels formed
+:irc.us.mibbit.net 255 geibot :I have 1403 clients and 1 servers
+:irc.us.mibbit.net 265 geibot 1403 1409 :Current local users 1403, max 1409
+:irc.us.mibbit.net 266 geibot 3660 7088 :Current global users 3660, max 7088
+:irc.us.mibbit.net 375 geibot :- irc.us.mibbit.net Message of the Day - 
+:irc.us.mibbit.net 372 geibot :- 2/12/2014 13:42
+:irc.us.mibbit.net 372 geibot :- Welcome to irc.mibbit.net
+:irc.us.mibbit.net 372 geibot :-  _                      _ _     _     _ _                _   
+:irc.us.mibbit.net 372 geibot :- (_)_ __ ___   _ __ ___ (_) |__ | |__ (_) |_   _ __   ___| |_ 
+:irc.us.mibbit.net 372 geibot :- | | '__/ __| | '_ ` _ \| | '_ \| '_ \| | __| | '_ \ / _ \ __|
+:irc.us.mibbit.net 372 geibot :- | | | | (__ _| | | | | | | |_) | |_) | | |_ _| | | |  __/ |_ 
+:irc.us.mibbit.net 372 geibot :- |_|_|  \___(
+_)_| |_| |_|_|_.__/|_.__/|_|\__(_)_| |_|\___|\__|
+:irc.us.mibbit.net 372 geibot :- 
+:irc.us.mibbit.net 372 geibot :- This server is for individuals 13 years or older. Channels that
+:irc.us.mibbit.net 372 geibot :- place themselves on Mibbit to issue and supply illegal items,
+:irc.us.mibbit.net 372 geibot :- such as File Downloads, Music Tracks or other operations deemed
+:irc.us.mibbit.net 372 geibot :- Illegal will
+be removed, and/or reported to the relevant Internet
+:irc.us.mibbit.net 372 geibot :- Service Providers, and/or authorities.
+:irc.us.mibbit.net 372 geibot :- 
+:irc.us.mibbit.net 372 geibot :- Please be friendly and watch your language in public channels.
+:irc.us.mibbit.net 372 geibot :- Do not impersonate other users, abuse will not be tolerated.
+:irc.us.mibbit.net 372 geibot :- 
+:irc.us.mibbit.net 372 geibot :- Mibbit Staff:  Axod    Azander  Fastundia  Havvy   Hercule
+:irc.us.mibbit.net 372 geibot :-                Joshua  Kitsune  Molkmin    Pottsi  Sindacious
+:irc.us.mibbit.net 372 geibot :- 
+:irc.us.mibbit.net 372 geibot :- Enjoy your stay :)
+:irc.us.mibbit.net 372 geibot :- --axod
+:irc.us.mibbit.net 376 geibot :End of /MOTD command.
+:geibot MODE geibot :+iwx
+:geibot!geibot@mib-81EFD0A1.cpe.net.cable.rogers.com JOIN :#fuckyou
+:irc.us.mibbit.net 353 geibot = #fuckyou :geibot @Ahri 
+:irc.us.mibbit.net 366 geibot #fuckyou :End of /NAMES list.
+:Ahri!Ahri@mib-81EFD0A1.cpe.net.cable.rogers.com PRIVMSG #fuckyou :`roulette
+:Ahri!Ahri@mib-81EFD0A1.cpe.net.cable.rogers.com PRIVMSG #fuckyou :`roulette
+:Ahri!Ahri@mib-81EFD0A1.cpe.net.cable.rogers.com PRIVMSG #fuckyou :`roulette
+:Ahri!Ahri@mib-81EFD0A1.cpe.net.cable.rogers.com PRIVMSG #fuckyou :`roulette
+:Ahri!Ahri@mib-81EFD0A1.cpe.net.cable.rogers.com PRIVMSG #fuckyou :`roulette
+:Ahri!Ahri@mib-81EFD0A1.cpe.net.cable.rogers.com PRIVMSG #fuckyou :`roulette
+:irc.us.mibbit.net 482 geibot #fuckyou :You're not channel operator
+:irc.uk.mibbit.net NOTICE AUTH :*** Looking up your hostname...
+:irc.uk.mibbit.net NOTICE AUTH :*** Found your hostname (cached)
+PING :BF8108A3
+:IRC!IRC@irc.uk.mibbit.net PRIVMSG geibot :VERSION
+:irc.uk.mibbit.net 001 geibot :Welcome to the Mibbit IRC Network geibot!geibot@CPE00222d5ac7b0-CM00222d5ac7ad.cpe.net.cable.rogers.com
+:irc.uk.mibbit.net 002 geibot :Your host is irc.uk.mibbit.net, running version Unreal3.2.8.1
+:irc.uk.mibbit.net 003 geibot :This server was created Thu May 5 2011 at 13:33:10 UTC
+:irc.uk.mibbit.net 004 geibot irc.uk.mibbit.net Unreal3.2.8.1 iowghraAsORTVSxNCWqBzvdHtGp lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGj
+:irc.uk.mibbit.net 005 geibot CMDS=KNOCK,MAP,DCCALLOW,USERIP UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:120,e:120,I:120 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+:irc.uk.mibbit.net 005 geibot MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTG NETWORK=Mibbit CASEMAPPING=ascii EXTBAN=~,cqnr ELIST=MNUCT :are supported by this server
+:irc.uk.mibbit.net 005 gei
+bot STATUSMSG=~&@%+ EXCEPTS INVEX :are supported by this server
+:irc.uk.mibbit.net 251 geibot :There are 21 users and 3637 invisible on 4 servers
+:irc.uk.mibbit.net 252 geibot 20 :operator(s) online
+:irc.uk.mibbit.net 254 geibot 1341 :channels formed
+:irc.uk.mibbit.net 255 geibot :I have 1811 clients and 3 servers
+:irc.uk.mibbit.net 265 geibot :Current Local Users: 1811  Max: 3885
+:irc.uk.mibbit.net 266 geibot :Current Global Users: 3658  Max: 7088
+:irc.uk.mibbit.net 375 geibot :- irc.uk.mibbit.net Message of the Day - 
+:irc.uk.mibbit.net 372 geibot :- 21/8/2011 12:50
+:irc.uk.mibbit.net 372 geibot :- Welcome to irc.mibbit.net
+:irc.uk.mibbit.net 372 geibot :-  _                      _ _     _     _ _                _   
+:irc.uk.mibbit.net 372 geibot :- (_)_ __ ___   _ __ ___ (_) |__ | |__ (_) |_   _ __   ___| |_ 
+:irc.uk.mibbit.net 372 geibot :- | | '__/ __| | '_ ` _ \| | '_ \| '_ \| | __| | '_ \ / _ \ __|
+:irc.uk.mibbit.net 372 geibot :- | | | | (__ _| | | | | | | |_) | |_) | | |_ _| | | |  __/ |_ 
+:irc.uk.mibbit.net 372 geibot :- |_|_|  \___(_)_| |_| |_|_|_.
+__/|_.__/|_|\__(_)_| |_|\___|\__|
+:irc.uk.mibbit.net 372 geibot :- 
+:irc.uk.mibbit.net 372 geibot :- This server is for individuals 13 years or older. Channels that
+:irc.uk.mibbit.net 372 geibot :- place themselves on Mibbit to issue and supply illegal items,
+:irc.uk.mibbit.net 372 geibot :- such as File Downloads, Music Tracks or other operations deemed
+:irc.uk.mibbit.net 372 geibot :- Illegal will be removed, and/
+or reported to the relevant Internet
+:irc.uk.mibbit.net 372 geibot :- Service Providers, and/or authorities.
+:irc.uk.mibbit.net 372 geibot :- 
+:irc.uk.mibbit.net 372 geibot :- Please be friendly and watch your language in public channels.
+:irc.uk.mibbit.net 372 geibot :- Do not impersonate other users, abuse will not be tolerated.
+:irc.uk.mibbit.net 372 geibot :- 
+:irc.uk.mibbit.net 372 geibot :- Mibbit Staff:  Axod    Azander  Fastundia  Havvy   Hercule
+:irc.uk.mibbit.net 372 geibot :-                Joshua  Kitsune  Molkmin    Pottsi  Sindacious
+:irc.uk.mibbit.net 372 geibot :- 
+:irc.uk.mibbit.net 372 geibot :- Enjoy your stay :)
+:irc.uk.mibbit.net 372 geibot :- --axod
+:irc.uk.mibbit.net 376 geibot :End of /MOTD command.
+:geibot MODE geibot :+iwx
+:geibot!geibot@mib-81EFD0A1.cpe.net.cable.rogers.com JOIN :#fuckyou
+:irc.uk.mibbit.net 353 geibot = #fuckyou :geibot @Ahri 
+:irc.uk.mibbit.net 366 geibot #fuckyou :End of /NAMES list.
+:Ahri!Ahri@mib-81EFD0A1.cpe.net.cable.rogers.com PRIVMSG #fuckyou :`roulette
+:irc.us.mibbit.net NOTICE AUTH :*** Looking up your hostname...
+:irc.us.mibbit.net NOTICE AUTH :*** Found your hostname (cached)
+PING :70F014EA
+:IRC!IRC@irc.us.mibbit.net PRIVMSG geibot :VERSION
+:irc.us.mibbit.net 001 geibot :Welcome to the Mibbit IRC Network geibot!geibot@CPE00222d5ac7b0-CM00222d5ac7ad.cpe.net.cable.rogers.com
+:irc.us.mibbit.net 002 geibot :Your host is irc.us.mibbit.net, running version Unreal3.2.10.4
+:irc.us.mibbit.net 003 geibot :This server was created Tue Dec 2 2014 at 00:02:39 UTC
+:irc.us.mibbit.net 004 geibot irc.us.mibbit.net Unreal3.2.10.4 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+:irc.us.mibbit.net 005 geibot CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:120,e:120,I:120 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+:irc.us.mibbit.net 005 geibot MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=Mibbit CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT :are supported by this server
+:irc.us.m
+ibbit.net 005 geibot STATUSMSG=~&@%+ EXCEPTS INVEX :are supported by this server
+:irc.us.mibbit.net 251 geibot :There are 21 users and 3635 invisible on 4 servers
+:irc.us.mibbit.net 252 geibot 20 :operator(s) online
+:irc.us.mibbit.net 253 geibot 5 :unknown connection(s)
+:irc.us.mibbit.net 254 geibot 1341 :channels formed
+:irc.us.mibbit.net 255 geibot :I have 1404 clients and 1 servers
+:irc.us.mibbit.net 265 geibot 1404 1409 :Current local users 1404, max 1409
+:irc.us.mibbit.net 266 geibot 3656 7088 :Current global users 3656, max 7088
+:irc.us.mibbit.net 375 geibot :- irc.us.mibbit.net Message of the Day - 
+:irc.us.mibbit.net 372 geibot :- 2/12/2014 13:42
+:irc.us.mibbit.net 372 geibot :- Welcome to irc.mibbit.net
+:irc.us.mibbit.net 372 geibot :-  _                      _ _     _     _ _                _   
+:irc.us.mibbit.net 372 geibot :- (_)_ __ ___   _ __ ___ (_) |__ | |__ (_) |_   _ __   ___| |_ 
+:irc.us.mibbit.net 372 geibot :- | | '__/ __| | '_ ` _ \| | '_ \| '_ \| | __| | '_ \ / _ \ __|
+:irc.us.mibbit.net 372 geibot :- | | | | (__ _| | | | | | | |_) | |_) | | |_ _| | | |
+__/ |_ 
+:irc.us.mibbit.net 372 geibot :- |_|_|  \___(_)_| |_| |_|_|_.__/|_.__/|_|\__(_)_| |_|\___|\__|
+:irc.us.mibbit.net 372 geibot :- 
+:irc.us.mibbit.net 372 geibot :- This server is for individuals 13 years or older. Channels that
+:irc.us.mibbit.net 372 geibot :- place themselves on Mibbit to issue and supply illegal items,
+:irc.us.mibbit.net 372 geibot :- such as File Downloads, Music Tracks or other operation
+s deemed
+:irc.us.mibbit.net 372 geibot :- Illegal will be removed, and/or reported to the relevant Internet
+:irc.us.mibbit.net 372 geibot :- Service Providers, and/or authorities.
+:irc.us.mibbit.net 372 geibot :- 
+:irc.us.mibbit.net 372 geibot :- Please be friendly and watch your language in public channels.
+:irc.us.mibbit.net 372 geibot :- Do not impersonate other users, abuse will not be tolerated.
+:irc.us.mibbit.net 372 geibot :- 
+:irc.us.mibbit.net 372 geibot :- Mibbit Staff:  Axod    Azander  Fastundia  Havvy   Hercule
+:irc.us.mibbit.net 372 geibot :-                Joshua  Kitsune  Molkmin    Pottsi  Sindacious
+:irc.us.mibbit.net 372 geibot :- 
+:irc.us.mibbit.net 372 geibot :- Enjoy your stay :)
+:irc.us.mibbit.net 372 geibot :- --axod
+:irc.us.mibbit.net 376 geibot :End of /MOTD command.
+:geibot MODE geibot :+iwx
+:geibot!geibot@mib-81EFD0A1.cpe.net.cable.rogers.com JOIN :#fuckyou
+:irc.us.mibbit.net 353 geibot = #fuckyou :geibot @Ahri 
+:irc.us.mibbit.net 366 geibot #fuckyou :End of /NAMES
+list.
+:Ahri!Ahri@mib-81EFD0A1.cpe.net.cable.rogers.com PRIVMSG #fuckyou :`roulette
+:Ahri!Ahri@mib-81EFD0A1.cpe.net.cable.rogers.com PRIVMSG #fuckyou :`roulette
+:Ahri!Ahri@mib-81EFD0A1.cpe.net.cable.rogers.com PRIVMSG #fuckyou :`roulette
+:Ahri!Ahri@mib-81EFD0A1.cpe.net.cable.rogers.com PRIVMSG #fuckyou :`roulette
+:Ahri!Ahri@mib-81EFD0A1.cpe.net.cable.rogers.com PRIVMSG #fuckyou :`roulette
+:Ahri!Ahri@mib-81EFD0A1.cpe.net.cable.rogers.com PRIVMSG #fuckyou :`roulette
+:irc.us.mibbit.net 482 geibot #fuckyou :You're not channel operator
+:irc.uk.mibbit.net NOTICE AUTH :*** Looking up your hostname...
+:irc.uk.mibbit.net NOTICE AUTH :*** Found your hostname (cached)
+PING :DA8EF1D6
+:IRC!IRC@irc.uk.mibbit.net PRIVMSG geibot :VERSION
+:irc.uk.mibbit.net 001 geibot :Welcome to the Mibbit IRC Network geibot!geibot@CPE00222d5ac7b0-CM00222d5ac7ad.cpe.net.cable.rogers.com
+:irc.uk.mibbit.net 002 geibot :Your host is irc.uk.mibbit.net, running version Unreal3.2.8.1
+:irc.uk.mibbit.net 003 geibot :This server was created Thu May 5 2011 at 13:33:10 UTC
+:irc.uk.mibbit.net 004 geibot irc.uk.mibbit.net Unreal3.2.8.1 iowghraAsORTVSxNCWqBzvdHtGp lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGj
+:irc.uk.mibbit.net 005 geibot CMDS=KNOCK,MAP,DCCALLOW,USERIP UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:120,e:120,I:120 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+:irc.uk.mibbit.net 005 geibot MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTG NETWORK=Mibbit CASEMAPPING=ascii EXTBAN=~,cqnr ELIST=MNUCT :are supported by this server
+:irc.uk.mibbit.net 005 gei
+bot STATUSMSG=~&@%+ EXCEPTS INVEX :are supported by this server
+:irc.uk.mibbit.net 251 geibot :There are 21 users and 3636 invisible on 4 servers
+:irc.uk.mibbit.net 252 geibot 20 :operator(s) online
+:irc.uk.mibbit.net 253 geibot 4 :unknown connection(s)
+:irc.uk.mibbit.net 254 geibot 1343 :channels formed
+:irc.uk.mibbit.net 255 geibot :I have 1811 clients and 3 servers
+:irc.uk.mibbit.net 265 geibot :Current Local Users: 1811  Max: 3885
+:irc.uk.mibbit.net 266 geibot :Current Global Users: 3657  Max: 7088
+:irc.uk.mibbit.net 375 geibot :- irc.uk.mibbit.net Message of the Day - 
+:irc.uk.mibbit.net 372 geibot :- 21/8/2011 12:50
+:irc.uk.mibbit.net 372 geibot :- Welcome to irc.mibbit.net
+:irc.uk.mibbit.net 372 geibot :-  _                      _ _     _     _ _                _   
+:irc.uk.mibbit.net 372 geibot :- (_)_ __ ___   _ __ ___ (_) |__ | |__ (_) |_   _ __   ___| |_ 
+:irc.uk.mibbit.net 372 geibot :- | | '__/ __| | '_ ` _ \| | '_ \| '_ \| | __| | '_ \ / _ \ __|
+:irc.uk.mibbit.net 372 geibot :- | | | | (__ _| | | | | | | |_) | |_) | | |_ _| | | |  __/ |_ 
+:irc.
+uk.mibbit.net 372 geibot :- |_|_|  \___(_)_| |_| |_|_|_.__/|_.__/|_|\__(_)_| |_|\___|\__|
+:irc.uk.mibbit.net 372 geibot :- 
+:irc.uk.mibbit.net 372 geibot :- This server is for individuals 13 years or older. Channels that
+:irc.uk.mibbit.net 372 geibot :- place themselves on Mibbit to issue and supply illegal items,
+:irc.uk.mibbit.net 372 geibot :- such as File Downloads, Music Tracks or other operations deemed
+:irc.u
+k.mibbit.net 372 geibot :- Illegal will be removed, and/or reported to the relevant Internet
+:irc.uk.mibbit.net 372 geibot :- Service Providers, and/or authorities.
+:irc.uk.mibbit.net 372 geibot :- 
+:irc.uk.mibbit.net 372 geibot :- Please be friendly and watch your language in public channels.
+:irc.uk.mibbit.net 372 geibot :- Do not impersonate other users, abuse will not be tolerated.
+:irc.uk.mibbit.net 372 geibot :- 
+:irc.uk.mibbit.net 372 geibot :- Mibbit Staff:  Axod    Azander  Fastundia  Havvy   Hercule
+:irc.uk.mibbit.net 372 geibot :-                Joshua  Kitsune  Molkmin    Pottsi  Sindacious
+:irc.uk.mibbit.net 372 geibot :- 
+:irc.uk.mibbit.net 372 geibot :- Enjoy your stay :)
+:irc.uk.mibbit.net 372 geibot :- --axod
+:irc.uk.mibbit.net 376 geibot :End of /MOTD command.
+:geibot MODE geibot :+iwx
+:geibot!geibot@mib-81EFD0A1.cpe.net.cable.rogers.com JOIN :#fuckyou
+:irc.uk.mibbit.net 353 geibot = #fuckyou :geibot @Ahri 
+:irc.uk.mibbit.net 366 geibot #fuckyou :End of /NAMES list.
+:Ahri!Ahri@mib-81EFD0A1.cpe.net.cable.rogers.com PRIVMSG #fuckyou :`roulette
+:Ahri!Ahri@mib-81EFD0A1.cpe.net.cable.rogers.com PRIVMSG #fuckyou :`roulette
+:Ahri!Ahri@mib-81EFD0A1.cpe.net.cable.rogers.com PRIVMSG #fuckyou :`roulette
+:Ahri!Ahri@mib-81EFD0A1.cpe.net.cable.rogers.com PRIVMSG #fuckyou :`roulette
+:Ahri!Ahri@mib-81EFD0A1.cpe.net.cable.rogers.com PRIVMSG #fuckyou :`roulette
+:Ahri!Ahri@mib-81EFD0A1.cpe.net.cable.rogers.com PRIVMSG #fuckyou :`roulette
+:irc.uk.mibbit.net 482 geibot #fuckyou :You're not channel operator
+:Ahri!Ahri@mib-81EFD0A1.cpe.net.cable.rogers.com PRIVMSG #fuckyou :`roulette
+:Ahri!Ahri@mib-81EFD0A1.cpe.net.cable.rogers.com PRIVMSG #fuckyou :`roulette
+:irc.us.mibbit.net NOTICE AUTH :*** Looking up your hostname...
+:irc.us.mibbit.net NOTICE AUTH :*** Found your hostname (cached)
+PING :C9976404
+:IRC!IRC@irc.us.mibbit.net PRIVMSG geibot :VERSION
+:irc.us.mibbit.net 001 geibot :Welcome to the Mibbit IRC Network geibot!geibot@CPE00222d5ac7b0-CM00222d5ac7ad.cpe.net.cable.rogers.com
+:irc.us.mibbit.net 002 geibot :Your host is irc.us.mibbit.net, running version Unreal3.2.10.4
+:irc.us.mibbit.net 003 geibot :This server was created Tue Dec 2 2014 at 00:02:39 UTC
+:irc.us.mibbit.net 004 geibot irc.us.mibbit.net Unreal3.2.10.4 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+:irc.us.mibbit.net 005 geibot CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:120,e:120,I:120 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+:irc.us.mibbit.net 005 geibot MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=Mibbit CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT :are supported by this server
+:irc.us.m
+ibbit.net 005 geibot STATUSMSG=~&@%+ EXCEPTS INVEX :are supported by this server
+:irc.us.mibbit.net 251 geibot :There are 20 users and 3633 invisible on 4 servers
+:irc.us.mibbit.net 252 geibot 20 :operator(s) online
+:irc.us.mibbit.net 254 geibot 1345 :channels formed
+:irc.us.mibbit.net 255 geibot :I have 1406 clients and 1 servers
+:irc.us.mibbit.net 265 geibot 1406 1413 :Current local users 1406, max 1413
+:irc.us.mibbit.net 266 geibot 3653 7088 :Current global users 3653, max 7088
+:irc.us.mibbit.net 375 geibot :- irc.us.mibbit.net Message of the Day - 
+:irc.us.mibbit.net 372 geibot :- 2/12/2014 13:42
+:irc.us.mibbit.net 372 geibot :- Welcome to irc.mibbit.net
+:irc.us.mibbit.net 372 geibot :-  _                      _ _     _     _ _                _   
+:irc.us.mibbit.net 372 geibot :- (_)_ __ ___   _ __ ___ (_) |__ | |__ (_) |_   _ __   ___| |_ 
+:irc.us.mibbit.net 372 geibot :- | | '__/ __| | '_ ` _ \| | '_ \| '_ \| | __| | '_ \ / _ \ __|
+:irc.us.mibbit.net 372 geibot :- | | | | (__ _| | | | | | | |_) | |_) | | |_ _| | | |  __/ |_ 
+:irc.us.mibbit.net 372 geibot :- |_|_|  \___(
+_)_| |_| |_|_|_.__/|_.__/|_|\__(_)_| |_|\___|\__|
+:irc.us.mibbit.net 372 geibot :- 
+:irc.us.mibbit.net 372 geibot :- This server is for individuals 13 years or older. Channels that
+:irc.us.mibbit.net 372 geibot :- place themselves on Mibbit to issue and supply illegal items,
+:irc.us.mibbit.net 372 geibot :- such as File Downloads, Music Tracks or other operations deemed
+:irc.us.mibbit.net 372 geibot :- Illegal will
+be removed, and/or reported to the relevant Internet
+:irc.us.mibbit.net 372 geibot :- Service Providers, and/or authorities.
+:irc.us.mibbit.net 372 geibot :- 
+:irc.us.mibbit.net 372 geibot :- Please be friendly and watch your language in public channels.
+:irc.us.mibbit.net 372 geibot :- Do not impersonate other users, abuse will not be tolerated.
+:irc.us.mibbit.net 372 geibot :- 
+:irc.us.mibbit.net 372 geibot :- Mibbit Staff:  Axod    Azander  Fastundia  Havvy   Hercule
+:irc.us.mibbit.net 372 geibot :-                Joshua  Kitsune  Molkmin    Pottsi  Sindacious
+:irc.us.mibbit.net 372 geibot :- 
+:irc.us.mibbit.net 372 geibot :- Enjoy your stay :)
+:irc.us.mibbit.net 372 geibot :- --axod
+:irc.us.mibbit.net 376 geibot :End of /MOTD command.
+:geibot MODE geibot :+iwx
+:geibot!geibot@mib-81EFD0A1.cpe.net.cable.rogers.com JOIN :#fuckyou
+:irc.us.mibbit.net 353 geibot = #fuckyou :geibot @Ahri 
+:irc.us.mibbit.net 366 geibot #fuckyou :End of /NAMES list.
+:Ahri!Ahri@mib-81EFD0A1.cpe.net.cable.rogers.com PRIVMSG #fuckyou :`roulette
+:irc.us.mibbit.net 482 geibot #fuckyou :You're not channel operator
+:Ahri!Ahri@mib-81EFD0A1.cpe.net.cable.rogers.com PRIVMSG #fuckyou :`roulette
+:Ahri!Ahri@mib-81EFD0A1.cpe.net.cable.rogers.com PRIVMSG #fuckyou :`roulette
+:Ahri!Ahri@mib-81EFD0A1.cpe.net.cable.rogers.com PRIVMSG #fuckyou :`roulette
+:irc.us.mibbit.net 482 geibot #fuckyou :You're not channel operator
+:Ahri!Ahri@mib-81EFD0A1.cpe.net.cable.rogers.com PRIVMSG #fuckyou :`roulette
+:Ahri!Ahri@mib-81EFD0A1.cpe.net.cable.rogers.com PRIVMSG #fuckyou :`roulette
+:Ahri!Ahri@mib-81EFD0A1.cpe.net.cable.rogers.com PRIVMSG #fuckyou :`roulette
+:Ahri!Ahri@mib-81EFD0A1.cpe.net.cable.rogers.com PRIVMSG #fuckyou :`roulette
+:Ahri!Ahri@mib-81EFD0A1.cpe.net.cable.rogers.com PRIVMSG #fuckyou :`roulette
+:irc.us.mibbit.net 482 geibot #fuckyou :You're not channel operator
+:Ahri!Ahri@mib-81EFD0A1.cpe.net.cable.rogers.com PRIVMSG #fuckyou :`roulette
+:Ahri!Ahri@mib-81EFD0A1.cpe.net.cable.rogers.com PRIVMSG #fuckyou :`roulette
+:Ahri!Ahri@mib-81EFD0A1.cpe.net.cable.rogers.com PRIVMSG #fuckyou :`roulette
+:Ahri!Ahri@mib-81EFD0A1.cpe.net.cable.rogers.com PRIVMSG #fuckyou :`roulette
+:Ahri!Ahri@mib-81EFD0A1.cpe.net.cable.rogers.com PRIVMSG #fuckyou :`roulette
+:Ahri!Ahri@mib-81EFD0A1.cpe.net.cable.rogers.com PRIVMSG #fuckyou :`roulette
+:Ahri!Ahri@mib-81EFD0A1.cpe.net.cable.rogers.com PRIVMSG #fuckyou :`roulette
+:irc.us.mibbit.net 482 geibot #fuckyou :You're not channel operator
+:Ahri!Ahri@mib-81EFD0A1.cpe.net.cable.rogers.com PRIVMSG #fuckyou :`roulette
+:Ahri!Ahri@mib-81EFD0A1.cpe.net.cable.rogers.com PRIVMSG #fuckyou :`roulette
+:irc.us.mibbit.net 482 geibot #fuckyou :You're not channel operator
+:irc.us.mibbit.net 482 geibot #fuckyou :You're not channel operator
+:irc.us.mibbit.net NOTICE AUTH :*** Looking up your hostname...
+:irc.us.mibbit.net NOTICE AUTH :*** Found your hostname (cached)
+PING :C60EEE3B
+:IRC!IRC@irc.us.mibbit.net PRIVMSG geibot :VERSION
+:irc.us.mibbit.net 001 geibot :Welcome to the Mibbit IRC Network geibot!geibot@CPE00222d5ac7b0-CM00222d5ac7ad.cpe.net.cable.rogers.com
+:irc.us.mibbit.net 002 geibot :Your host is irc.us.mibbit.net, running version Unreal3.2.10.4
+:irc.us.mibbit.net 003 geibot :This server was created Tue Dec 2 2014 at 00:02:39 UTC
+:irc.us.mibbit.net 004 geibot irc.us.mibbit.net Unreal3.2.10.4 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+:irc.us.mibbit.net 005 geibot CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:120,e:120,I:120 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+:irc.us.mibbit.net 005 geibot MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=Mibbit CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT :are supported by this server
+:irc.us.m
+ibbit.net 005 geibot STATUSMSG=~&@%+ EXCEPTS INVEX :are supported by this server
+:irc.us.mibbit.net 251 geibot :There are 22 users and 3636 invisible on 4 servers
+:irc.us.mibbit.net 252 geibot 20 :operator(s) online
+:irc.us.mibbit.net 253 geibot 2 :unknown connection(s)
+:irc.us.mibbit.net 254 geibot 1345 :channels formed
+:irc.us.mibbit.net 255 geibot :I have 1408 clients and 1 servers
+:irc.us.mibbit.net 265 geibot 1408 1413 :Current local users 1408, max 1413
+:irc.us.mibbit.net 266 geibot 3658 7088 :Current global users 3658, max 7088
+:irc.us.mibbit.net 375 geibot :- irc.us.mibbit.net Message of the Day - 
+:irc.us.mibbit.net 372 geibot :- 2/12/2014 13:42
+:irc.us.mibbit.net 372 geibot :- Welcome to irc.mibbit.net
+:irc.us.mibbit.net 372 geibot :-  _                      _ _     _     _ _                _   
+:irc.us.mibbit.net 372 geibot :- (_)_ __ ___   _ __ ___ (_) |__ | |__ (_) |_   _ __   ___| |_ 
+:irc.us.mibbit.net 372 geibot :- | | '__/ __| | '_ ` _ \| | '_ \| '_ \| | __| | '_ \ / _ \ __|
+:irc.us.mibbit.net 372 geibot :- | | | | (__ _| | | | | | | |_) | |_) | | |_ _| | | |
+__/ |_ 
+:irc.us.mibbit.net 372 geibot :- |_|_|  \___(_)_| |_| |_|_|_.__/|_.__/|_|\__(_)_| |_|\___|\__|
+:irc.us.mibbit.net 372 geibot :- 
+:irc.us.mibbit.net 372 geibot :- This server is for individuals 13 years or older. Channels that
+:irc.us.mibbit.net 372 geibot :- place themselves on Mibbit to issue and supply illegal items,
+:irc.us.mibbit.net 372 geibot :- such as File Downloads, Music Tracks or other operation
+s deemed
+:irc.us.mibbit.net 372 geibot :- Illegal will be removed, and/or reported to the relevant Internet
+:irc.us.mibbit.net 372 geibot :- Service Providers, and/or authorities.
+:irc.us.mibbit.net 372 geibot :- 
+:irc.us.mibbit.net 372 geibot :- Please be friendly and watch your language in public channels.
+:irc.us.mibbit.net 372 geibot :- Do not impersonate other users, abuse will not be tolerated.
+:irc.us.mibbit.net 372 geibot :- 
+:irc.us.mibbit.net 372 geibot :- Mibbit Staff:  Axod    Azander  Fastundia  Havvy   Hercule
+:irc.us.mibbit.net 372 geibot :-                Joshua  Kitsune  Molkmin    Pottsi  Sindacious
+:irc.us.mibbit.net 372 geibot :- 
+:irc.us.mibbit.net 372 geibot :- Enjoy your stay :)
+:irc.us.mibbit.net 372 geibot :- --axod
+:irc.us.mibbit.net 376 geibot :End of /MOTD command.
+:geibot MODE geibot :+iwx
+:geibot!geibot@mib-81EFD0A1.cpe.net.cable.rogers.com JOIN :#fuckyou
+:irc.us.mibbit.net 353 geibot = #fuckyou :geibot @Ahri 
+:irc.us.mibbit.net 366 geibot #fuckyou :End of /NAMES list.
+:Ahri!Ahri@mib-81EFD0A1.cpe.net.cable.rogers.com PRIVMSG #fuckyou :`roulette
+:Ahri!Ahri@mib-81EFD0A1.cpe.net.cable.rogers.com PRIVMSG #fuckyou :`roulette
+:Ahri!Ahri@mib-81EFD0A1.cpe.net.cable.rogers.com PRIVMSG #fuckyou :`roulette
+:Ahri!Ahri@mib-81EFD0A1.cpe.net.cable.rogers.com PRIVMSG #fuckyou :`roulette
+:Ahri!Ahri@mib-81EFD0A1.cpe.net.cable.rogers.com MODE #fuckyou +o geibot
+:Ahri!Ahri@mib-81EFD0A1.cpe.net.cable.rogers.com MODE #fuckyou -o Ahri
+:Ahri!Ahri@mib-81EFD0A1.cpe.net.cable.rogers.com PRIVMSG #fuckyou :`roulette
+:Ahri!Ahri@mib-81EFD0A1.cpe.net.cable.rogers.com PRIVMSG #fuckyou :`roulette
+:geibot!geibot@mib-81EFD0A1.cpe.net.cable.rogers.com KICK #fuckyou Ahri :You died! D:
+:Ahri!Ahri@mib-81EFD0A1.cpe.net.cable.rogers.com JOIN :#fuckyou
+:Ahri!Ahri@mib-81EFD0A1.cpe.net.cable.rogers.com PRIVMSG #fuckyou :`roulette
+:Ahri!Ahri@mib-81EFD0A1.cpe.net.cable.rogers.com PRIVMSG #fuckyou :`roulette
+:Ahri!Ahri@mib-81EFD0A1.cpe.net.cable.rogers.com PRIVMSG #fuckyou :`roulette
+:Ahri!Ahri@mib-81EFD0A1.cpe.net.cable.rogers.com PRIVMSG #fuckyou :`roulette
+:Ahri!Ahri@mib-81EFD0A1.cpe.net.cable.rogers.com PRIVMSG #fuckyou :`roulette
+:geibot!geibot@mib-81EFD0A1.cpe.net.cable.rogers.com KICK #fuckyou Ahri :You died! D:
+:Ahri!Ahri@mib-81EFD0A1.cpe.net.cable.rogers.com JOIN :#fuckyou
+:Ahri!Ahri@mib-81EFD0A1.cpe.net.cable.rogers.com PRIVMSG #fuckyou :`roulette
+:Ahri!Ahri@mib-81EFD0A1.cpe.net.cable.rogers.com PRIVMSG #fuckyou :`roulette
+:Ahri!Ahri@mib-81EFD0A1.cpe.net.cable.rogers.com PRIVMSG #fuckyou :`roulette
+:Ahri!Ahri@mib-81EFD0A1.cpe.net.cable.rogers.com PRIVMSG #fuckyou :`roulette
+:geibot!geibot@mib-81EFD0A1.cpe.net.cable.rogers.com KICK #fuckyou Ahri :You died! D:
