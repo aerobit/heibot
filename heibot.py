@@ -150,6 +150,8 @@ def parse(line):
                             else:
                                 string = "error: %s" % (data['message']);
                             s.send("PRIVMSG %s :%s\n" % (irc['chan'], str(string)));
+                            if stuff.lower() in ['the door', 'guessing is hard']:
+                                s.send("PRIVMSG %s :chaosagent cannot solve %s and therefore deserves public shaming" % (irc['chan'], stuff))
                         except Exception:
                             s.send("PRIVMSG %s :dang it, screwed up somewhere\n" % (irc['chan']));
                     except Exception:
