@@ -14356,3 +14356,1021 @@ PING :irc.us.mibbit.net
 :MegaAbsol!MegaAbsol@EB6CFC71.11644C59.F4E58FD5.IP PRIVMSG #easyctf :keys
 :heibot4!heibot4@mib-4C476570.hsd1.md.comcast.net PRIVMSG #easyctf :that was in pico2013
 :heibot4!heibot4@mib-4C476570.hsd1.md.comcast.net PRIVMSG #easyctf :lol
+:Hcnsh!Hcnsh@mib-9B549249.nyc.res.rr.com PRIVMSG #easyctf :`rek megaabsol
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :gg
+:jdeans!jdeans@mib-51366745.e9.401f.cidr.airmail.net JOIN :#easyctf
+:heibot4!heibot4@mib-4C476570.hsd1.md.comcast.net PRIVMSG #easyctf :`rek Hcnsh
+:heibot4!heibot4@mib-4C476570.hsd1.md.comcast.net PRIVMSG #easyctf :ha
+:heibot4!heibot4@mib-4C476570.hsd1.md.comcast.net PRIVMSG #easyctf :rekt by a bot
+:heibot4!heibot4@mib-4C476570.hsd1.md.comcast.net PRIVMSG #easyctf :what a noob
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :`<3
+:jdeans!jdeans@mib-51366745.e9.401f.cidr.airmail.net QUIT :Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
+:MinnieMouse!MinnieMous@mib-2D190423.hsd1.md.comcast.net JOIN :#easyctf
+PING :irc.us.mibbit.net
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :heibot4, bots rek all
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :nobody can beat a good bot
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :ever
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :period.
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :lol
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf ::I
+:heibot4!heibot4@mib-4C476570.hsd1.md.comcast.net PRIVMSG #easyctf :hei
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :well
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :unless its just an RNG game
+:heibot4!heibot4@mib-4C476570.hsd1.md.comcast.net PRIVMSG #easyctf :`hf why does failedxyz use :l and not :|
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :also, heibot4 if you leave your username is banned :P
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :because heibot
+:heibot4!heibot4@mib-4C476570.hsd1.md.comcast.net PRIVMSG #easyctf :wait what
+:MegaAbsol!MegaAbsol@EB6CFC71.11644C59.F4E58FD5.IP PRIVMSG #easyctf ::| :l :I
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :wait
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :wtf
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :hei
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :lol heibot heites you
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :yes, i did
+:heibot4!heibot4@mib-4C476570.hsd1.md.comcast.net PRIVMSG #easyctf :are you sure?
+:adj!adj@mib-34543BBE.dyn.optonline.net JOIN :#easyctf
+:MegaAbsol!MegaAbsol@EB6CFC71.11644C59.F4E58FD5.IP QUIT :Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
+:adj!adj@mib-34543BBE.dyn.optonline.net PRIVMSG heibot :hi
+:adj!adj@mib-34543BBE.dyn.optonline.net PRIVMSG heibot :fuck you
+:adj!adj@mib-34543BBE.dyn.optonline.net QUIT :Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
+PING :irc.us.mibbit.net
+PING :irc.us.mibbit.net
+:AndroUser2!androirc@mib-AC01065E.hsd1.ga.comcast.net JOIN :#easyctf
+:ls39!ls39@DF5ED130.81BDE481.E31549FD.IP JOIN :#easyctf
+PING :irc.us.mibbit.net
+:ls39!ls39@DF5ED130.81BDE481.E31549FD.IP PRIVMSG #easyctf :Hi guys, any hints for QR please?
+PING :irc.us.mibbit.net
+:Lambda!Lambda@EB494F98.B0E15C48.37E78FAC.IP PRIVMSG #easyctf :QR code?
+:Lambda!Lambda@EB494F98.B0E15C48.37E78FAC.IP PRIVMSG #easyctf :can't discuss question specifics in public
+:Lambda!Lambda@EB494F98.B0E15C48.37E78FAC.IP PRIVMSG #easyctf :pm me
+PING :irc.us.mibbit.net
+:MinnieMouse!MinnieMous@mib-2D190423.hsd1.md.comcast.net QUIT :Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
+PING :irc.us.mibbit.net
+PING :irc.us.mibbit.net
+PING :irc.us.mibbit.net
+:ls39!ls39@DF5ED130.81BDE481.E31549FD.IP QUIT :Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
+PING :irc.us.mibbit.net
+PING :irc.us.mibbit.net
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :`vs c c++
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :lmao rust has a Cow type: https://github.com/rust-lang/rust/pull/19252
+:Ophast!Ophast@295D99D4.933D989C.A6D9346.IP QUIT :Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
+PING :irc.us.mibbit.net
+PING :irc.us.mibbit.net
+:heibot4!heibot4@mib-4C476570.hsd1.md.comcast.net QUIT :Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
+:irc.uk.mibbit.net NOTICE AUTH :*** Looking up your hostname...
+:irc.uk.mibbit.net NOTICE AUTH :*** Couldn't resolve your hostname; using your IP address instead
+PING :2D1D7DDC
+:2D1D7DDC!nospoof@irc.uk.mibbit.net PRIVMSG heibot :VERSION
+:irc.uk.mibbit.net 451 PRIVMSG :You have not registered
+:irc.uk.mibbit.net NOTICE AUTH :*** Looking up your hostname...
+:irc.uk.mibbit.net NOTICE AUTH :*** Couldn't resolve your hostname; using your IP address instead
+PING :53FAC703
+:IRC!IRC@irc.uk.mibbit.net PRIVMSG heibot :VERSION
+:irc.uk.mibbit.net 001 heibot :Welcome to the Mibbit IRC Network heibot!heibot@98.206.22.165
+:irc.uk.mibbit.net 002 heibot :Your host is irc.uk.mibbit.net, running version Unreal3.2.8.1
+:irc.uk.mibbit.net 003 heibot :This server was created Thu May 5 2011 at 13:33:10 UTC
+:irc.uk.mibbit.net 004 heibot irc.uk.mibbit.net Unreal3.2.8.1 iowghraAsORTVSxNCWqBzvdHtGp lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGj
+:irc.uk.mibbit.net 005 heibot CMDS=KNOCK,MAP,DCCALLOW,USERIP UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:120,e:120,I:120 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+:irc.uk.mibbit.net 005 heibot MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTG NETWORK=Mibbit CASEMAPPING=ascii EXTBAN=~,cqnr ELIST=MNUCT :are supported by this server
+:irc.uk.mibbit.net 005 heibot STATUSMSG=~&@%+ EXCEPTS INVEX :are sup
+ported by this server
+:irc.uk.mibbit.net 251 heibot :There are 20 users and 3206 invisible on 4 servers
+:irc.uk.mibbit.net 252 heibot 18 :operator(s) online
+:irc.uk.mibbit.net 253 heibot 2 :unknown connection(s)
+:irc.uk.mibbit.net 254 heibot 1308 :channels formed
+:irc.uk.mibbit.net 255 heibot :I have 1670 clients and 3 servers
+:irc.uk.mibbit.net 265 heibot :Current Local Users: 1670  Max: 3885
+:irc.uk.mibbit.net 266 heibot :Current Global Users: 3226  Max: 7088
+:irc.uk.mibbit.net 375 heibot :- irc.uk.mibbit.net Message of the Day - 
+:irc.uk.mibbit.net 372 heibot :- 21/8/2011 12:50
+:irc.uk.mibbit.net 372 heibot :- Welcome to irc.mibbit.net
+:irc.uk.mibbit.net 372 heibot :-  _                      _ _     _     _ _                _   
+:irc.uk.mibbit.net 372 heibot :- (_)_ __ ___   _ __ ___ (_) |__ | |__ (_) |_   _ __   ___| |_ 
+:irc.uk.mibbit.net 372 heibot :- | | '__/ __| | '_ ` _ \| | '_ \| '_ \| | __| | '_ \ / _ \ __|
+:irc.uk.mibbit.net 372 heibot :- | | | | (__ _| | | | | | | |_) | |_) | | |_ _| | | |  __/ |_ 
+:irc.
+uk.mibbit.net 372 heibot :- |_|_|  \___(_)_| |_| |_|_|_.__/|_.__/|_|\__(_)_| |_|\___|\__|
+:irc.uk.mibbit.net 372 heibot :- 
+:irc.uk.mibbit.net 372 heibot :- This server is for individuals 13 years or older. Channels that
+:irc.uk.mibbit.net 372 heibot :- place themselves on Mibbit to issue and supply illegal items,
+:irc.uk.mibbit.net 372 heibot :- such as File Downloads, Music Tracks or other operations deemed
+:irc.uk.mibbit.net
+372 heibot :- Illegal will be removed, and/or reported to the relevant Internet
+:irc.uk.mibbit.net 372 heibot :- Service Providers, and/or authorities.
+:irc.uk.mibbit.net 372 heibot :- 
+:irc.uk.mibbit.net 372 heibot :- Please be friendly and watch your language in public channels.
+:irc.uk.mibbit.net 372 heibot :- Do not impersonate other users, abuse will not be tolerated.
+:irc.uk.mibbit.net 372 heibot :- 
+:irc.uk.mibbit.net 372 heibot :- Mibbit Staff:  Axod    Azander  Fastundia  Havvy   Hercule
+:irc.uk.mibbit.net 372 heibot :-                Joshua  Kitsune  Molkmin    Pottsi  Sindacious
+:irc.uk.mibbit.net 372 heibot :- 
+:irc.uk.mibbit.net 372 heibot :- Enjoy your stay :)
+:irc.uk.mibbit.net 372 heibot :- --axod
+:irc.uk.mibbit.net 376 heibot :End of /MOTD command.
+:heibot MODE heibot :+iwx
+:heibot!heibot@F4C7A360.2394FDCB.26C9456E.IP JOIN :#easyctf
+:irc.uk.mibbit.net 332 heibot #easyctf :EasyCTF 2014. Rules: USE COMMON SENSE. Don't share flags. If you need help, ask someone with a ~ or & or @
+next to their username. Move bots to #easyctf-revolt or #easyctf-revolt-revolt. If you're feeling helpful, contribute to heibot at http://github.com/failedxyz/heibot
+:irc.uk.mibbit.net 333 heibot #easyctf failedxyz 1417560094
+:irc.uk.mibbit.net 353 heibot = #easyctf :heibot AndroUser2 ~failedxyz ladspa randomperson cyron anomalousnoob lain hardmath123 TheBagels Hcnsh Mickey Lambda ` YatharthROCK Forty-Bot faiIedxyz Ahri @JacobEdelman &Eleng555 @alokpathy &Bot sdamashek bob Kent jrni ma [bumbuu]ben saxx cptnXn 
+:irc.uk.mibbit.net 366 heibot #easyctf :End of /NAMES list.
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :`top 4
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :`top 5
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :`top
+:cptnXn!sid33285@mib-8283696A.irccloud.com PRIVMSG #easyctf :`top [4]
+:cptnXn!sid33285@mib-8283696A.irccloud.com PRIVMSG #easyctf :You know
+:cptnXn!sid33285@mib-8283696A.irccloud.com PRIVMSG #easyctf :I could probably add that in much faster than you
+:cptnXn!sid33285@mib-8283696A.irccloud.com PRIVMSG #easyctf ::P
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :`top 10
+:DUUT!DUUT@mib-B6A2438F.oc.oc.cox.net JOIN :#easyctf
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :`top 5
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :`top 5 5
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :cptnXn: i know you can
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :`top5
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :i just started doing this stuff
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :wait a second
+:irc.us.mibbit.net NOTICE AUTH :*** Looking up your hostname...
+:irc.us.mibbit.net NOTICE AUTH :*** Couldn't resolve your hostname; using your IP address instead
+PING :5E216F25
+:IRC!IRC@irc.us.mibbit.net PRIVMSG heibot :VERSION
+:irc.us.mibbit.net 001 heibot :Welcome to the Mibbit IRC Network heibot!heibot@98.206.22.165
+:irc.us.mibbit.net 002 heibot :Your host is irc.us.mibbit.net, running version Unreal3.2.10.4
+:irc.us.mibbit.net 003 heibot :This server was created Tue Dec 2 2014 at 00:02:39 UTC
+:irc.us.mibbit.net 004 heibot irc.us.mibbit.net Unreal3.2.10.4 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+:irc.us.mibbit.net 005 heibot UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:120,e:120,I:120 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 MAXTARGETS=20 :are supported by this server
+:irc.us.mibbit.net 005 heibot WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=Mibbit CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT STATUSMSG=~&@%+ :are supported by this server
+:irc.us.mibbit.net 005 heibot EXCEPTS INVEX CMDS=KNOCK,MAP,DCCALLOW,USERIP,
+STARTTLS :are supported by this server
+:irc.us.mibbit.net 251 heibot :There are 19 users and 3168 invisible on 4 servers
+:irc.us.mibbit.net 252 heibot 18 :operator(s) online
+:irc.us.mibbit.net 254 heibot 1305 :channels formed
+:irc.us.mibbit.net 255 heibot :I have 812 clients and 1 servers
+:irc.us.mibbit.net 265 heibot 812 965 :Current local users 812, max 965
+:irc.us.mibbit.net 266 heibot 3187 7088 :Current global users 3187, max 7088
+:irc.us.mibbit.net 422 heibot :MOTD File is missing
+:heibot MODE heibot :+iwx
+:heibot!heibot@F4C7A360.2394FDCB.26C9456E.IP JOIN :#easyctf
+:irc.us.mibbit.net 332 heibot #easyctf :EasyCTF 2014. Rules: USE COMMON SENSE. Don't share flags. If you need help, ask someone with a ~ or & or @ next to their username. Move bots to #easyctf-revolt or #easyctf-revolt-revolt. If you're feeling helpful, contribute to heibot at http://github.com/failedxyz/heibot
+:irc.us.mibbit.net 333 heibot #easyctf failedxyz 1417560094
+:irc.us.mibbit.net 353 heibot = #easyctf :heibot wao teamthatwillnotwin Guest6741 DUUT AndroUser2 ~fai
+ledxyz ladspa randomperson cyron anomalousnoob lain hardmath123 TheBagels Hcnsh Mickey Lambda ` YatharthROCK Forty-Bot faiIedxyz Ahri @JacobEdelman &Eleng555 cptnXn saxx [bumbuu]ben ma jrni Kent bob sdamashek &Bot @alokpathy 
+:irc.us.mibbit.net 366 heibot #easyctf :End of /NAMES list.
+:irc.us.mibbit.net 482 heibot #easyctf :You're not channel operator
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :dammit ben
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :dammittttttttttttttttttt
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :w-what
+:Lambda!Lambda@EB494F98.B0E15C48.37E78FAC.IP PRIVMSG #easyctf :hei
+:Lambda!Lambda@EB494F98.B0E15C48.37E78FAC.IP PRIVMSG #easyctf :anyone done Ghoti?
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :youre gonna get ghoti
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :lol
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :and who are the lumberjacks?
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :`top 5
+:irc.us.mibbit.net NOTICE AUTH :*** Looking up your hostname...
+:irc.us.mibbit.net NOTICE AUTH :*** Couldn't resolve your hostname; using your IP address instead
+PING :9195F131
+:IRC!IRC@irc.us.mibbit.net PRIVMSG heibot :VERSION
+:irc.us.mibbit.net 001 heibot :Welcome to the Mibbit IRC Network heibot!heibot@98.206.22.165
+:irc.us.mibbit.net 002 heibot :Your host is irc.us.mibbit.net, running version Unreal3.2.10.4
+:irc.us.mibbit.net 003 heibot :This server was created Tue Dec 2 2014 at 00:02:39 UTC
+:irc.us.mibbit.net 004 heibot irc.us.mibbit.net Unreal3.2.10.4 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+:irc.us.mibbit.net 005 heibot UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:120,e:120,I:120 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 MAXTARGETS=20 :are supported by this server
+:irc.us.mibbit.net 005 heibot WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=Mibbit CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT STATUSMSG=~&@%+ :are supported by this server
+:irc.us.mibbit.net 005 heibot EXCEPTS INVEX CMDS=KNOCK,MAP,DCCALLOW,USERIP,
+STARTTLS :are supported by this server
+:irc.us.mibbit.net 251 heibot :There are 20 users and 3162 invisible on 4 servers
+:irc.us.mibbit.net 252 heibot 18 :operator(s) online
+:irc.us.mibbit.net 253 heibot 2 :unknown connection(s)
+:irc.us.mibbit.net 254 heibot 1300 :channels formed
+:irc.us.mibbit.net 255 heibot :I have 805 clients and 1 servers
+:irc.us.mibbit.net 265 heibot 805 965 :Current local users 805, max 965
+:irc.us.mibbit.net 266 heibot 3182 7088 :Current global users 3182, max 7088
+:irc.us.mibbit.net 422 heibot :MOTD File is missing
+:heibot MODE heibot :+iwx
+:heibot!heibot@F4C7A360.2394FDCB.26C9456E.IP JOIN :#easyctf
+:irc.us.mibbit.net 332 heibot #easyctf :EasyCTF 2014. Rules: USE COMMON SENSE. Don't share flags. If you need help, ask someone with a ~ or & or @ next to their username. Move bots to #easyctf-revolt or #easyctf-revolt-revolt. If you're feeling helpful, contribute to heibot at http://github.com/failedxyz/heibot
+:irc.us.mibbit.net 333 heibot #easyctf failedxyz 1417560094
+:irc.us.mibbit.net 353 heibot = #easyctf :heib
+ot wao teamthatwillnotwin Guest6741 DUUT AndroUser2 ~failedxyz ladspa randomperson cyron anomalousnoob lain hardmath123 TheBagels Hcnsh Mickey Lambda ` YatharthROCK Forty-Bot faiIedxyz Ahri @JacobEdelman &Eleng555 cptnXn saxx [bumbuu]ben ma jrni Kent bob sdamashek &Bot @alokpathy 
+:irc.us.mibbit.net 366 heibot #easyctf :End of /NAMES list.
+:irc.us.mibbit.net 482 heibot #easyctf :You're not channel operator
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :`top 5
+:YatharthROCK!YatharthRO@67550901.922D8CB0.85354419.IP PRIVMSG #easyctf :anomalousnoob: Because we hack. *drumroll*
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :yay
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP MODE #easyctf +o heibot
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :`top
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :GODDAMMIT YATHARTHROCK
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :`top 10
+:Lambda!Lambda@EB494F98.B0E15C48.37E78FAC.IP PRIVMSG #easyctf :top 30!!!
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :lol moooo pls
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :`TOP 230
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf ::I
+:Lambda!Lambda@EB494F98.B0E15C48.37E78FAC.IP PRIVMSG #easyctf :`top 30
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :`top 230
+:irc.us.mibbit.net NOTICE AUTH :*** Looking up your hostname...
+:irc.us.mibbit.net NOTICE AUTH :*** Couldn't resolve your hostname; using your IP address instead
+PING :E102D1AA
+:E102D1AA!nospoof@irc.us.mibbit.net PRIVMSG heibot :VERSION
+:irc.us.mibbit.net 451 PRIVMSG :You have not registered
+:irc.us.mibbit.net NOTICE AUTH :*** Looking up your hostname...
+:irc.us.mibbit.net NOTICE AUTH :*** Couldn't resolve your hostname; using your IP address instead
+PING :5171F155
+:IRC!IRC@irc.us.mibbit.net PRIVMSG heibot :VERSION
+:irc.us.mibbit.net 001 heibot :Welcome to the Mibbit IRC Network heibot!heibot@98.206.22.165
+:irc.us.mibbit.net 002 heibot :Your host is irc.us.mibbit.net, running version Unreal3.2.10.4
+:irc.us.mibbit.net 003 heibot :This server was created Tue Dec 2 2014 at 00:02:39 UTC
+:irc.us.mibbit.net 004 heibot irc.us.mibbit.net Unreal3.2.10.4 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+:irc.us.mibbit.net 005 heibot UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:120,e:120,I:120 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 MAXTARGETS=20 :are supported by this server
+:irc.us.mibbit.net 005 heibot WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=Mibbit CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT STATUSMSG=~&@%+ :are supported by this server
+:irc.us.mibbit.net 005 heibot EXCEPTS INVEX CMDS=KNOCK,MAP,DCCALLOW,USERIP,
+STARTTLS :are supported by this server
+:irc.us.mibbit.net 251 heibot :There are 20 users and 3170 invisible on 4 servers
+:irc.us.mibbit.net 252 heibot 18 :operator(s) online
+:irc.us.mibbit.net 253 heibot 2 :unknown connection(s)
+:irc.us.mibbit.net 254 heibot 1305 :channels formed
+:irc.us.mibbit.net 255 heibot :I have 821 clients and 1 servers
+:irc.us.mibbit.net 265 heibot 821 965 :Current local users 821, max 965
+:irc.us.mibbit.net 266 heibot 3190 7088 :Current global users 3190, max 7088
+:irc.us.mibbit.net 422 heibot :MOTD File is missing
+:heibot MODE heibot :+iwx
+:heibot!heibot@F4C7A360.2394FDCB.26C9456E.IP JOIN :#easyctf
+:irc.us.mibbit.net 332 heibot #easyctf :EasyCTF 2014. Rules: USE COMMON SENSE. Don't share flags. If you need help, ask someone with a ~ or & or @ next to their username. Move bots to #easyctf-revolt or #easyctf-revolt-revolt. If you're feeling helpful, contribute to heibot at http://github.com/failedxyz/heibot
+:irc.us.mibbit.net 333 heibot #easyctf failedxyz 1417560094
+:irc.us.mibbit.net 353 heibot = #easyctf :heib
+ot Kuragama gadet wao teamthatwillnotwin Guest6741 DUUT AndroUser2 ~failedxyz ladspa randomperson cyron anomalousnoob lain hardmath123 TheBagels Hcnsh Mickey Lambda ` YatharthROCK Forty-Bot faiIedxyz Ahri @JacobEdelman &Eleng555 cptnXn saxx [bumbuu]ben ma jrni Kent bob sdamashek &Bot @alokpathy 
+:irc.us.mibbit.net 366 heibot #easyctf :End of /NAMES list.
+:irc.us.mibbit.net 482 heibot #easyctf :You're not channel operator
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :`top 5
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :`top 1
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :me
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :yeah
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :congratz
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :IM AWESOME but i cant get the last 2 :(
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :lol
+:Lambda!Lambda@EB494F98.B0E15C48.37E78FAC.IP PRIVMSG #easyctf :immm sooo close
+:randomperson!randompers@5EA07EC6.5884207C.598213A.IP QUIT :Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
+:Lambda!Lambda@EB494F98.B0E15C48.37E78FAC.IP PRIVMSG #easyctf :anyone done Ghoti
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :soon to come: `solved failedxyz (will return 0 ofc)
+PING :irc.us.mibbit.net
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :where can you see the solved stats?
+:wao!wao@A8C5B168.39BD432A.34C61E59.IP QUIT :Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :still working on it
+PING :irc.us.mibbit.net
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :`rek failedxyz
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf ::I
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :`bitches
+:Kuragama!Kuragama@mib-31A05501.hlrn.qwest.net QUIT :Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :`<3
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :`bitches
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :`top 5
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :huh
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :whered  go
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :failedxyz why
+:DUUT!DUUT@mib-B6A2438F.oc.oc.cox.net QUIT :Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :mildly evil
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :oh
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :WOAH IM 5th
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :they legitly beat me
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :without solving any new problems
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :dammmit
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :i quit
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :bye
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :mildly evil is gone?
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :yeah
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :dammit, failed
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :thank god
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :it works
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :IT WORKS
+PING :irc.us.mibbit.net
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :I LITERALLY GOT THE ANSWER
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :huh?
+:JacobEdelman!uid15877@mib-F0ED8C7C.irccloud.com PRIVMSG #easyctf :anomalousnoob: how
+:JacobEdelman!uid15877@mib-F0ED8C7C.irccloud.com PRIVMSG #easyctf :anomalousnoob: pm me
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :not sure
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :i just did
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :anomalousnoob: what problem
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :lol
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :hmmm
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :it died again
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :yeah
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :broken problem
+:JacobEdelman!uid15877@mib-F0ED8C7C.irccloud.com PRIVMSG #easyctf :it just randomly showed up?
+:JacobEdelman!uid15877@mib-F0ED8C7C.irccloud.com PRIVMSG #easyctf :cause that happened
+:JacobEdelman!uid15877@mib-F0ED8C7C.irccloud.com PRIVMSG #easyctf :and I have no idea why
+:JacobEdelman!uid15877@mib-F0ED8C7C.irccloud.com PRIVMSG #easyctf :it was really really broken
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :no
+:JacobEdelman!uid15877@mib-F0ED8C7C.irccloud.com PRIVMSG #easyctf :I'll explain why after easy
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :i solved it in the beginning
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :but
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :now it no works
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :it consistently worked a few minutes after you reset it
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :if i did it wrong, it didnt
+:JacobEdelman!uid15877@mib-F0ED8C7C.irccloud.com PRIVMSG #easyctf :email me how at me@jacobedelman.com gtg
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :wjatever
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :i give up
+PING :irc.us.mibbit.net
+:RSen!RSen@mib-B1B0A139.hsd1.wa.comcast.net JOIN :#easyctf
+:alokpathy!uid15876@mib-8283696A.irccloud.com PRIVMSG #easyctf :ACTION has returned
+:RSen!RSen@mib-B1B0A139.hsd1.wa.comcast.net PRIVMSG #easyctf :is Mildly evil guess no longer a problem?? I don't see it anymore in the list...
+:Mickey!Mickey@A88281D6.3D70BF9A.69C00FE0.IP PRIVMSG #easyctf :what happened to mildly evil
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :yup
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :gone
+:RSen!RSen@mib-B1B0A139.hsd1.wa.comcast.net PRIVMSG #easyctf :why??? spent so much time on that lol
+PING :irc.us.mibbit.net
+:alokpathy!uid15876@mib-8283696A.irccloud.com PRIVMSG #easyctf :RSen: it's broken
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :idk
+:alokpathy!uid15876@mib-8283696A.irccloud.com PRIVMSG #easyctf :Sorry for the inconvenience
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :well
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :i lose now
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :lol
+:YatharthROCK!YatharthRO@67550901.922D8CB0.85354419.IP QUIT :Ping timeout
+:RSen!RSen@mib-B1B0A139.hsd1.wa.comcast.net PRIVMSG #easyctf :oh lol so my script was actually right? lol I solved guessing is hard and was wondering why my script wasn't working...
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :ayyyyyyyya
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :i cant get gih
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :cuz im a noob
+:RSen!RSen@mib-B1B0A139.hsd1.wa.comcast.net PRIVMSG #easyctf :oh well so I guess it is time to turn off the random guessing programs I have running lol
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :`top 5
+:Eleng555!uid54788@mib-DEE87C23.irccloud.com PRIVMSG #easyctf :`top 10
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :we need lines
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :if i rage really bad, ill post all the flags here
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :lol
+:Mickey!Mickey@A88281D6.3D70BF9A.69C00FE0.IP PRIVMSG #easyctf :sooo, is mildly evil gone forever
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :basically
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :and so is my t-shirt
+:Mickey!Mickey@A88281D6.3D70BF9A.69C00FE0.IP PRIVMSG #easyctf :then how do we get those points
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :theyre thrown out
+:Cosmic42!Cosmic42@mib-5091B7E4.washdc.fios.verizon.net JOIN :#easyctf
+:goofy!goofy@mib-2D190423.hsd1.md.comcast.net JOIN :#easyctf
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :http://www.easyctf.com/scoreboard
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :lol that graph
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :i was #1 for so long
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :then i lost the points :(
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :i was for most of a day
+:Mickey!Mickey@A88281D6.3D70BF9A.69C00FE0.IP PRIVMSG #easyctf :how did you even get it in the first place if it was broken
+PING :irc.us.mibbit.net
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :it wasnt
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :when they first reset it
+:teamthatwillnotwin!teamthatwi@mib-51C8F4AE.hsd1.nj.comcast.net QUIT :Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :why am i behind mickey?
+:cptnXn!sid33285@mib-8283696A.irccloud.com PRIVMSG #easyctf :My bots being stupid with it :/
+:cptnXn!sid33285@mib-8283696A.irccloud.com PRIVMSG #easyctf :Wait
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :failedxyz: i should be in froont of mickey
+:cptnXn!sid33285@mib-8283696A.irccloud.com PRIVMSG #easyctf :What did they change?
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :i got to that score first
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :except you took off my points
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :so it thinks i got there second
+:adj!adj@mib-34543BBE.dyn.optonline.net JOIN :#easyctf
+:adj!adj@mib-34543BBE.dyn.optonline.net PRIVMSG #easyctf :what happened to mildly evil
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :it died
+PING :irc.us.mibbit.net
+:nope!nope@8501E3FB.845064EE.4D4D5081.IP JOIN :#easyctf
+:adj!adj@mib-34543BBE.dyn.optonline.net PRIVMSG #easyctf :but
+:adj!adj@mib-34543BBE.dyn.optonline.net PRIVMSG #easyctf :now
+:slow!slowmath@mib-18FAF393.cable.mindspring.com JOIN :#easyctf
+:adj!adj@mib-34543BBE.dyn.optonline.net PRIVMSG #easyctf :we are in like 14th
+:adj!adj@mib-34543BBE.dyn.optonline.net PRIVMSG #easyctf :or 13th
+:nope!nope@8501E3FB.845064EE.4D4D5081.IP PRIVMSG #easyctf :hey wait where's mildly evil guess?
+:slow!slowmath@mib-18FAF393.cable.mindspring.com PRIVMSG #easyctf :how would one approach fast math
+:adj!adj@mib-34543BBE.dyn.optonline.net PRIVMSG #easyctf :gone
+:nope!nope@8501E3FB.845064EE.4D4D5081.IP PRIVMSG #easyctf :why?
+:adj!adj@mib-34543BBE.dyn.optonline.net PRIVMSG #easyctf :and we all lost the 170 :'(
+:nope!nope@8501E3FB.845064EE.4D4D5081.IP PRIVMSG #easyctf :wait why was it removed?
+:nope!nope@8501E3FB.845064EE.4D4D5081.IP PRIVMSG #easyctf :@alokpathy why was it removed?
+PING :irc.us.mibbit.net
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :i'm trying every fish-related i can find word for ghoti
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :*fish-related word i can find
+:alokpathy!uid15876@mib-8283696A.irccloud.com PRIVMSG #easyctf :nope: Mildly evil?
+:alokpathy!uid15876@mib-8283696A.irccloud.com PRIVMSG #easyctf :It's broken.
+:alokpathy!uid15876@mib-8283696A.irccloud.com PRIVMSG #easyctf :It actually wasn't supposed to be a problem.
+:alokpathy!uid15876@mib-8283696A.irccloud.com PRIVMSG #easyctf :Broken as in
+:alokpathy!uid15876@mib-8283696A.irccloud.com PRIVMSG #easyctf :literally impossible
+:nope!nope@8501E3FB.845064EE.4D4D5081.IP PRIVMSG #easyctf :was the solution supposed to be
+:nope!nope@8501E3FB.845064EE.4D4D5081.IP PRIVMSG #easyctf :seeding on the client side so that the random floats generated would be the same?
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :get the same seed by time?
+PING :irc.us.mibbit.net
+:nope!nope@8501E3FB.845064EE.4D4D5081.IP PRIVMSG #easyctf :yeah what bumbuuben said
+:nope!nope@8501E3FB.845064EE.4D4D5081.IP PRIVMSG #easyctf :was it supposed to be that?
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :with a .00028 second delay
+:hardmath123!Hardmath12@8FD49322.A1FE29E.16D5AEB9.IP PRIVMSG #easyctf :alokpathy: what was the intended solution?
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :for network connections :P
+:hardmath123!Hardmath12@8FD49322.A1FE29E.16D5AEB9.IP PRIVMSG #easyctf :.00027 if you have Google Fiber
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :lol
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :i jsut random.seed()
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :no, on the server itself
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :random.random()
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :it just seeds it witht he time
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :random.seed(time.time()*256 - .00028)
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :it worked before idk why not now
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :lol
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :shutup
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :random.seed() uses an integer value
+:nope!nope@8501E3FB.845064EE.4D4D5081.IP PRIVMSG #easyctf :hm it was probably not possible because on the server side it was actually using urandom as the seed source instead of time
+:adj!adj@mib-34543BBE.dyn.optonline.net PRIVMSG #easyctf :i used import random
+:alokpathy!uid15876@mib-8283696A.irccloud.com PRIVMSG #easyctf :hardmath123: I'm not sure. JacobEdelman wrote it.
+:pwnd00d!pwnd00d@mib-7C0E57D5.lightspeed.lkzril.sbcglobal.net JOIN :#easyctf
+:adj!adj@mib-34543BBE.dyn.optonline.net PRIVMSG #easyctf :and then random.random()
+:adj!adj@mib-34543BBE.dyn.optonline.net PRIVMSG #easyctf :and it was the same client and server side
+:shrucis2!shrucis2@mib-34FC3194.clppva.fios.verizon.net JOIN :#easyctf
+:shrucis2!shrucis2@mib-34FC3194.clppva.fios.verizon.net PRIVMSG #easyctf :herro
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :then, (time.time()-.00028)*256
+:shrucis2!shrucis2@mib-34FC3194.clppva.fios.verizon.net PRIVMSG #easyctf :?
+:nope!nope@8501E3FB.845064EE.4D4D5081.IP PRIVMSG #easyctf :python docs state that if urandom is available, python will use that instead of system time as the seed
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :exactly
+:shrucis2!shrucis2@mib-34FC3194.clppva.fios.verizon.net PRIVMSG #easyctf :this all sounds very relevant to what I was coming to ask
+:nope!nope@8501E3FB.845064EE.4D4D5081.IP PRIVMSG #easyctf :so that's probably what made the problem impossible
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :wait maybe failedxyz is trying to crack some crypto, so he wanted us to make as many attempts as possible
+:cptnXn!sid33285@mib-8283696A.irccloud.com PRIVMSG #easyctf :It's not literally impossible though :/
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :its all a ruse
+PING :irc.us.mibbit.net
+:nope!nope@8501E3FB.845064EE.4D4D5081.IP PRIVMSG #easyctf :@JacobEdelman was that the intended solution?
+:cptnXn!sid33285@mib-8283696A.irccloud.com PRIVMSG #easyctf :He's gone
+:cptnXn!sid33285@mib-8283696A.irccloud.com PRIVMSG #easyctf :Call his house
+:shrucis2!shrucis2@mib-34FC3194.clppva.fios.verizon.net PRIVMSG #easyctf :Is this for Guessing is Hard?
+:RSen!RSen@mib-B1B0A139.hsd1.wa.comcast.net PRIVMSG #easyctf :lol yeah my strat was hitting it 10,000,000 times
+:hardmath123!Hardmath12@8FD49322.A1FE29E.16D5AEB9.IP PRIVMSG #easyctf :i'm gonna email jacob
+:nope!nope@8501E3FB.845064EE.4D4D5081.IP PRIVMSG #easyctf :lol I literally have so much personal info on failedxyz
+:nope!nope@8501E3FB.845064EE.4D4D5081.IP PRIVMSG #easyctf :because of stalking
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :jacob didn't write it
+:shrucis2!shrucis2@mib-34FC3194.clppva.fios.verizon.net PRIVMSG #easyctf :lol
+:nope!nope@8501E3FB.845064EE.4D4D5081.IP PRIVMSG #easyctf :for the last problem
+:hardmath123!Hardmath12@8FD49322.A1FE29E.16D5AEB9.IP PRIVMSG #easyctf :this one caused me like 5 hours of pure pain
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :its a common misconception
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :lol
+:shrucis2!shrucis2@mib-34FC3194.clppva.fios.verizon.net PRIVMSG #easyctf :no, lol
+:cptnXn!sid33285@mib-8283696A.irccloud.com PRIVMSG #easyctf :lol literally none of it is useful though
+:shrucis2!shrucis2@mib-34FC3194.clppva.fios.verizon.net PRIVMSG #easyctf :lol no
+:shrucis2!shrucis2@mib-34FC3194.clppva.fios.verizon.net PRIVMSG #easyctf :lol no
+:nope!nope@8501E3FB.845064EE.4D4D5081.IP PRIVMSG #easyctf :lololol
+:shrucis2!shrucis2@mib-34FC3194.clppva.fios.verizon.net PRIVMSG #easyctf :lol no
+:nope!nope@8501E3FB.845064EE.4D4D5081.IP PRIVMSG #easyctf :lol
+:shrucis2!shrucis2@mib-34FC3194.clppva.fios.verizon.net PRIVMSG #easyctf :lol of course not
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :i ran 30 process written in C that sent floats  to the server
+:nope!nope@8501E3FB.845064EE.4D4D5081.IP PRIVMSG #easyctf :okay shut up heibot lol
+:shrucis2!shrucis2@mib-34FC3194.clppva.fios.verizon.net PRIVMSG #easyctf :nope
+:shrucis2!shrucis2@mib-34FC3194.clppva.fios.verizon.net PRIVMSG #easyctf :lul
+:shrucis2!shrucis2@mib-34FC3194.clppva.fios.verizon.net PRIVMSG #easyctf :HAHA
+:shrucis2!shrucis2@mib-34FC3194.clppva.fios.verizon.net PRIVMSG #easyctf :it doesn't see lul
+:shrucis2!shrucis2@mib-34FC3194.clppva.fios.verizon.net PRIVMSG #easyctf :lawl
+:shrucis2!shrucis2@mib-34FC3194.clppva.fios.verizon.net PRIVMSG #easyctf :loL
+:pwnd00d!pwnd00d@mib-7C0E57D5.lightspeed.lkzril.sbcglobal.net PRIVMSG #easyctf :yo if anyone needs help on rsa, hashing or obfuscation2 ask me
+:nope!nope@8501E3FB.845064EE.4D4D5081.IP PRIVMSG #easyctf :haha shrucis2 lol
+:cptnXn!sid33285@mib-8283696A.irccloud.com PRIVMSG #easyctf :austin
+:cptnXn!sid33285@mib-8283696A.irccloud.com PRIVMSG #easyctf :Tell me the answers
+:shrucis2!shrucis2@mib-34FC3194.clppva.fios.verizon.net PRIVMSG #easyctf :pwnd00d pretty sure only admins/mods are allowed to answer questions
+:pwnd00d!pwnd00d@mib-7C0E57D5.lightspeed.lkzril.sbcglobal.net PRIVMSG #easyctf :i am
+:pwnd00d!pwnd00d@mib-7C0E57D5.lightspeed.lkzril.sbcglobal.net PRIVMSG #easyctf :w8
+:pwnd00d!pwnd00d@mib-7C0E57D5.lightspeed.lkzril.sbcglobal.net PRIVMSG #easyctf :lol
+:cptnXn!sid33285@mib-8283696A.irccloud.com PRIVMSG #easyctf :I wanna know if I got them right
+:shrucis2!shrucis2@mib-34FC3194.clppva.fios.verizon.net PRIVMSG #easyctf :Did you pwnd00d?
+:shrucis2!shrucis2@mib-34FC3194.clppva.fios.verizon.net PRIVMSG #easyctf :did you actually laugh out loud?
+:pwnd00d!pwnd00d@mib-7C0E57D5.lightspeed.lkzril.sbcglobal.net PRIVMSG #easyctf :i did
+:shrucis2!shrucis2@mib-34FC3194.clppva.fios.verizon.net PRIVMSG #easyctf :lol
+:shrucis2!shrucis2@mib-34FC3194.clppva.fios.verizon.net PRIVMSG #easyctf :EYS
+:shrucis2!shrucis2@mib-34FC3194.clppva.fios.verizon.net PRIVMSG #easyctf :yes*
+:goofy!goofy@mib-2D190423.hsd1.md.comcast.net QUIT :Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
+:pwnd00d!pwnd00d@mib-7C0E57D5.lightspeed.lkzril.sbcglobal.net PRIVMSG #easyctf :michael needs to remove bots
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :whats the irc protocol syntax for privmsg
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :PRIVMSG #easyctf :message
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :ok
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :make sure there's a space before :
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :i think that's important
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :uuh message = line.split(":")[2];
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :what
+:shrucis2!shrucis2@mib-34FC3194.clppva.fios.verizon.net PRIVMSG #easyctf :Any mod/admin I can ask questions about Mildly Evil Guess?
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :dead
+:shrucis2!shrucis2@mib-34FC3194.clppva.fios.verizon.net PRIVMSG #easyctf :?
+PING :irc.us.mibbit.net
+:cptnXn!sid33285@mib-8283696A.irccloud.com PRIVMSG #easyctf :The problem that doesn't exist anymore because Michael thought it was impossible?
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :'PRIVMSG ' + channel + ' :' + str(msg) + ' \r\n'
+:shrucis2!shrucis2@mib-34FC3194.clppva.fios.verizon.net QUIT :Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :it is impossible to exploit i think
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :if len(line.split(":")) == 3:
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :(in heibot src)
+:nope!nope@8501E3FB.845064EE.4D4D5081.IP QUIT :Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :roll` 3
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :`roll 3
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP MODE #easyctf +o pwnd00d
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :roll 3 `
+:nope!nope@8501E3FB.845064EE.4D4D5081.IP JOIN :#easyctf
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :_roll 3 `
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :its looking for mentions by :
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :i think
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :idk
+:pwnd00d!pwnd00d@mib-7C0E57D5.lightspeed.lkzril.sbcglobal.net PRIVMSG #easyctf :ok now if anyone needs help on rsa, hashing or obfuscation2 ask me
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :no
+:gadet!gadet@mib-8810D5AC.nycmny.fios.verizon.net PRIVMSG #easyctf :`flag failedxyz
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :PRIVMSG #easyctf :`roll 3
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :failedxyz: can you modularize the bot?
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :meh
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :ok
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :with tiny files or something for each command/module
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :maybe later :P
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :can you dynamically import stuff
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :in python
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :right now all i'm doing is adding more elifs
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :exactly
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :it'll be messy
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :it is messy
+:nope!nope@8501E3FB.845064EE.4D4D5081.IP PRIVMSG #easyctf :`flag failedxyz
+:TheBagels!TheBagels@25FC8678.CFC78C13.5A26C328.IP PRIVMSG #easyctf :`flag failedxyz
+:nope!nope@8501E3FB.845064EE.4D4D5081.IP PRIVMSG #easyctf :@pwnd00d can I get help on rsa?
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :modularized bots are hard to deal with
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :and also
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :seems easier in C
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :with dlsym
+:nope!nope@8501E3FB.845064EE.4D4D5081.IP PRIVMSG #easyctf :pwnd00d you offered help on rsa right?
+:nope!nope@8501E3FB.845064EE.4D4D5081.IP PRIVMSG #easyctf :I'd just like a clarification
+:nope!nope@8501E3FB.845064EE.4D4D5081.IP PRIVMSG #easyctf :we're just given the modulus right
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :for some reaosn when i tried running a server it only worked if i did str(float) instead of just float == float
+:nope!nope@8501E3FB.845064EE.4D4D5081.IP PRIVMSG #easyctf :or does the public key contain the exponent in some way
+:nope!nope@8501E3FB.845064EE.4D4D5081.IP PRIVMSG #easyctf :nope
+:RSen!RSen@mib-B1B0A139.hsd1.wa.comcast.net PRIVMSG #easyctf :no exponent for rsa...
+:nope!nope@8501E3FB.845064EE.4D4D5081.IP PRIVMSG #easyctf :nope
+:nope!nope@8501E3FB.845064EE.4D4D5081.IP PRIVMSG #easyctf :nope
+:Hcnsh!Hcnsh@mib-9B549249.nyc.res.rr.com PRIVMSG #easyctf :the public key you're given is the exponent, i think
+:nope!nope@8501E3FB.845064EE.4D4D5081.IP PRIVMSG #easyctf :wow self-tagging
+:nope!nope@8501E3FB.845064EE.4D4D5081.IP PRIVMSG #easyctf :nope
+PING :irc.us.mibbit.net
+:Hcnsh!Hcnsh@mib-9B549249.nyc.res.rr.com PRIVMSG #easyctf :the encryption key
+:nope!nope@8501E3FB.845064EE.4D4D5081.IP PRIVMSG #easyctf :hmm really? it factors into two primes, so it seems like the modulus
+:Hcnsh!Hcnsh@mib-9B549249.nyc.res.rr.com PRIVMSG #easyctf :hmm
+:Hcnsh!Hcnsh@mib-9B549249.nyc.res.rr.com PRIVMSG #easyctf :i was told it's e
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :anomalous materials will not be operative anymore
+:RSen!RSen@mib-B1B0A139.hsd1.wa.comcast.net PRIVMSG #easyctf :no its the modulus. you're not given the modulus that would be too easy
+:sdamashek!samuel@mib-ACCAE81.sdamashek.me PRIVMSG #easyctf :wat
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :have fun
+:pwnd00d!pwnd00d@mib-7C0E57D5.lightspeed.lkzril.sbcglobal.net PRIVMSG #easyctf :no
+:irc.uk.mibbit.net NOTICE AUTH :*** Looking up your hostname...
+:irc.uk.mibbit.net NOTICE AUTH :*** Couldn't resolve your hostname; using your IP address instead
+PING :E417EE1D
+:IRC!IRC@irc.uk.mibbit.net PRIVMSG heibot :VERSION
+:irc.uk.mibbit.net 001 heibot :Welcome to the Mibbit IRC Network heibot!heibot@98.206.22.165
+:irc.uk.mibbit.net 002 heibot :Your host is irc.uk.mibbit.net, running version Unreal3.2.8.1
+:irc.uk.mibbit.net 003 heibot :This server was created Thu May 5 2011 at 13:33:10 UTC
+:irc.uk.mibbit.net 004 heibot irc.uk.mibbit.net Unreal3.2.8.1 iowghraAsORTVSxNCWqBzvdHtGp lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGj
+:irc.uk.mibbit.net 005 heibot CMDS=KNOCK,MAP,DCCALLOW,USERIP UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:120,e:120,I:120 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+:irc.uk.mibbit.net 005 heibot MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTG NETWORK=Mibbit CASEMAPPING=ascii EXTBAN=~,cqnr ELIST=MNUCT :are supported by this server
+:irc.uk.mibbit.net 005 heibot STATUSMSG=~&@%+ EXCEPTS INVEX :are sup
+ported by this server
+:irc.uk.mibbit.net 251 heibot :There are 19 users and 3109 invisible on 4 servers
+:irc.uk.mibbit.net 252 heibot 19 :operator(s) online
+:irc.uk.mibbit.net 254 heibot 1306 :channels formed
+:irc.uk.mibbit.net 255 heibot :I have 1644 clients and 3 servers
+:irc.uk.mibbit.net 265 heibot :Current Local Users: 1644  Max: 3885
+:irc.uk.mibbit.net 266 heibot :Current Global Users: 3128  Max: 7088
+:irc.uk.mibbit.net 375 heibot :- irc.uk.mibbit.net Message of the Day - 
+:irc.uk.mibbit.net 372 heibot :- 21/8/2011 12:50
+:irc.uk.mibbit.net 372 heibot :- Welcome to irc.mibbit.net
+:irc.uk.mibbit.net 372 heibot :-  _                      _ _     _     _ _                _   
+:irc.uk.mibbit.net 372 heibot :- (_)_ __ ___   _ __ ___ (_) |__ | |__ (_) |_   _ __   ___| |_ 
+:irc.uk.mibbit.net 372 heibot :- | | '__/ __| | '_ ` _ \| | '_ \| '_ \| | __| | '_ \ / _ \ __|
+:irc.uk.mibbit.net 372 heibot :- | | | | (__ _| | | | | | | |_) | |_) | | |_ _| | | |  __/ |_ 
+:irc.uk.mibbit.net 372 heibot :- |_|_|
+\___(_)_| |_| |_|_|_.__/|_.__/|_|\__(_)_| |_|\___|\__|
+:irc.uk.mibbit.net 372 heibot :- 
+:irc.uk.mibbit.net 372 heibot :- This server is for individuals 13 years or older. Channels that
+:irc.uk.mibbit.net 372 heibot :- place themselves on Mibbit to issue and supply illegal items,
+:irc.uk.mibbit.net 372 heibot :- such as File Downloads, Music Tracks or other operations deemed
+:irc.uk.mibbit.net 372 heibot :- Illegal will be removed, and/or reported
+to the relevant Internet
+:irc.uk.mibbit.net 372 heibot :- Service Providers, and/or authorities.
+:irc.uk.mibbit.net 372 heibot :- 
+:irc.uk.mibbit.net 372 heibot :- Please be friendly and watch your language in public channels.
+:irc.uk.mibbit.net 372 heibot :- Do not impersonate other users, abuse will not be tolerated.
+:irc.uk.mibbit.net 372 heibot :- 
+:irc.uk.mibbit.net 372 heibot :- Mibbit Staff:  Axod    Azander  Fastundia  Havvy   Hercule
+:irc.uk.mibbit.net 372 heibot :-                Joshua  Kitsune  Molkmin    Pottsi  Sindacious
+:irc.uk.mibbit.net 372 heibot :- 
+:irc.uk.mibbit.net 372 heibot :- Enjoy your stay :)
+:irc.uk.mibbit.net 372 heibot :- --axod
+:irc.uk.mibbit.net 376 heibot :End of /MOTD command.
+:heibot MODE heibot :+iwx
+:heibot!heibot@F4C7A360.2394FDCB.26C9456E.IP JOIN :#easyctf
+:irc.uk.mibbit.net 332 heibot #easyctf :EasyCTF 2014. Rules: USE COMMON SENSE. Don't share flags. If you need help, ask someone with a ~ or & or @ next to their username. Move bots to #easyctf-revolt or
+#easyctf-revolt-revolt. If you're feeling helpful, contribute to heibot at http://github.com/failedxyz/heibot
+:irc.uk.mibbit.net 333 heibot #easyctf failedxyz 1417560094
+:irc.uk.mibbit.net 353 heibot = #easyctf :heibot nope @pwnd00d slow adj Cosmic42 RSen gadet Guest6741 AndroUser2 ~failedxyz ladspa cyron anomalousnoob lain hardmath123 TheBagels Hcnsh Mickey Lambda ` Forty-Bot faiIedxyz Ahri @JacobEdelman &Eleng555 @alokpathy &Bot
+sdamashek bob Kent jrni ma [bumbuu]ben saxx cptnXn 
+:irc.uk.mibbit.net 366 heibot #easyctf :End of /NAMES list.
+:irc.uk.mibbit.net 482 heibot #easyctf :You're not channel operator
+:Kitsune_!Mibbit@kitsune.staff.mibbit.net PRIVMSG heibot :VERSION
+:sdamashek!samuel@mib-ACCAE81.sdamashek.me PRIVMSG #easyctf :ok
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :the "public key" is actually N
+:sdamashek!samuel@mib-ACCAE81.sdamashek.me PRIVMSG #easyctf :that's what I though
+:RSen!RSen@mib-B1B0A139.hsd1.wa.comcast.net QUIT :Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :`solved failedxyz
+:pwnd00d!pwnd00d@mib-7C0E57D5.lightspeed.lkzril.sbcglobal.net PRIVMSG #easyctf :a public ket
+:nope!nope@8501E3FB.845064EE.4D4D5081.IP PRIVMSG #easyctf :okay so we're supposed to somehow find e
+:pwnd00d!pwnd00d@mib-7C0E57D5.lightspeed.lkzril.sbcglobal.net PRIVMSG #easyctf :is N and E
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :pwnd00d: is silly and doesn't know RSA
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :public key = (N,e)
+:pwnd00d!pwnd00d@mib-7C0E57D5.lightspeed.lkzril.sbcglobal.net PRIVMSG #easyctf :ik
+:pwnd00d!pwnd00d@mib-7C0E57D5.lightspeed.lkzril.sbcglobal.net PRIVMSG #easyctf :but i only gave u N
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :you wrote public key
+:nope!nope@8501E3FB.845064EE.4D4D5081.IP PRIVMSG #easyctf :ok can you make that a little more clear in the problem statement?
+:pwnd00d!pwnd00d@mib-7C0E57D5.lightspeed.lkzril.sbcglobal.net PRIVMSG #easyctf :shudve clarified that but i though it was implied considering e is usually not in hex
+:nope!nope@8501E3FB.845064EE.4D4D5081.IP PRIVMSG #easyctf :we were scratching our heads over that for a little
+:nope!nope@8501E3FB.845064EE.4D4D5081.IP PRIVMSG #easyctf :oh
+:Hcnsh!Hcnsh@mib-9B549249.nyc.res.rr.com PRIVMSG #easyctf :someone told me it's e, so i gave up on rsa since i couldn't think of a way to effectively do it ;_;
+:irc.uk.mibbit.net NOTICE AUTH :*** Looking up your hostname...
+:irc.uk.mibbit.net NOTICE AUTH :*** Couldn't resolve your hostname; using your IP address instead
+PING :D5605EF5
+:IRC!IRC@irc.uk.mibbit.net PRIVMSG heibot :VERSION
+:irc.uk.mibbit.net 001 heibot :Welcome to the Mibbit IRC Network heibot!heibot@98.206.22.165
+:irc.uk.mibbit.net 002 heibot :Your host is irc.uk.mibbit.net, running version Unreal3.2.8.1
+:irc.uk.mibbit.net 003 heibot :This server was created Thu May 5 2011 at 13:33:10 UTC
+:irc.uk.mibbit.net 004 heibot irc.uk.mibbit.net Unreal3.2.8.1 iowghraAsORTVSxNCWqBzvdHtGp lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGj
+:irc.uk.mibbit.net 005 heibot CMDS=KNOCK,MAP,DCCALLOW,USERIP UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:120,e:120,I:120 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+:irc.uk.mibbit.net 005 heibot MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTG NETWORK=Mibbit CASEMAPPING=ascii EXTBAN=~,cqnr ELIST=MNUCT :are supported by this server
+:irc.uk.mibbit.net 005 heibot STATUSMSG=~&@%+ EXCEPTS INVEX :are sup
+ported by this server
+:irc.uk.mibbit.net 251 heibot :There are 20 users and 3110 invisible on 4 servers
+:irc.uk.mibbit.net 252 heibot 19 :operator(s) online
+:irc.uk.mibbit.net 254 heibot 1303 :channels formed
+:irc.uk.mibbit.net 255 heibot :I have 1647 clients and 3 servers
+:irc.uk.mibbit.net 265 heibot :Current Local Users: 1647  Max: 3885
+:irc.uk.mibbit.net 266 heibot :Current Global Users: 3130  Max: 7088
+:irc.uk.mibbit.net 375 heibot :- irc.uk.mibbit.net Message of the Day - 
+:irc.uk.mibbit.net 372 heibot :- 21/8/2011 12:50
+:irc.uk.mibbit.net 372 heibot :- Welcome to irc.mibbit.net
+:irc.uk.mibbit.net 372 heibot :-  _                      _ _     _     _ _                _   
+:irc.uk.mibbit.net 372 heibot :- (_)_ __ ___   _ __ ___ (_) |__ | |__ (_) |_   _ __   ___| |_ 
+:irc.uk.mibbit.net 372 heibot :- | | '__/ __| | '_ ` _ \| | '_ \| '_ \| | __| | '_ \ / _ \ __|
+:irc.uk.mibbit.net 372 heibot :- | | | | (__ _| | | | | | | |_) | |_) | | |_ _| | | |  __/ |_ 
+:irc.uk.mibbit.net 372 heibot :- |_|_|
+\___(_)_| |_| |_|_|_.__/|_.__/|_|\__(_)_| |_|\___|\__|
+:irc.uk.mibbit.net 372 heibot :- 
+:irc.uk.mibbit.net 372 heibot :- This server is for individuals 13 years or older. Channels that
+:irc.uk.mibbit.net 372 heibot :- place themselves on Mibbit to issue and supply illegal items,
+:irc.uk.mibbit.net 372 heibot :- such as File Downloads, Music Tracks or other operations deemed
+:irc.uk.mibbit.net 372 heibot :- Illegal will be removed, and/or reported to the relevant Internet
+:irc.uk.mibbit.net 372 heibot :- Service Providers, and/or authorities.
+:irc.uk.mibbit.net 372 heibot :- 
+:irc.uk.mibbit.net 372 heibot :- Please be friendly and watch your language in public channels.
+:irc.uk.mibbit.net 372 heibot :- Do not impersonate other users, abuse will not be tolerated.
+:irc.uk.mibbit.net 372 heibot :- 
+:irc.uk.mibbit.net 372 heibot :- Mibbit Staff:  Axod    Azander  Fastundia  Havvy   Hercule
+:irc.uk.mibbit.net 372 heibot :-                Joshua  Kitsune  Molkmin    Pottsi  Sindacious
+:irc.uk.mibbit.
+net 372 heibot :- 
+:irc.uk.mibbit.net 372 heibot :- Enjoy your stay :)
+:irc.uk.mibbit.net 372 heibot :- --axod
+:irc.uk.mibbit.net 376 heibot :End of /MOTD command.
+:heibot MODE heibot :+iwx
+:heibot!heibot@F4C7A360.2394FDCB.26C9456E.IP JOIN :#easyctf
+:irc.uk.mibbit.net 332 heibot #easyctf :EasyCTF 2014. Rules: USE COMMON SENSE. Don't share flags. If you need help, ask someone with a ~ or & or @ next to their username. Move bots to #easyctf-revolt or #easyctf-revolt-revolt. If you're feeling helpful, contribute to heibot at http://github.com/failedxyz/heibot
+:irc.uk.mibbit.net 333 heibot #easyctf failedxyz 1417560094
+:irc.uk.mibbit.net 353 heibot = #easyctf :heibot nope @pwnd00d slow adj Cosmic42 gadet Guest6741 AndroUser2 ~failedxyz ladspa cyron anomalousnoob lain hardmath123 TheBagels Hcnsh Mickey Lambda ` Forty-Bot faiIedxyz Ahri @JacobEdelman &Eleng555 @alokpathy &Bot sdam
+ashek bob Kent jrni ma [bumbuu]ben saxx cptnXn 
+:irc.uk.mibbit.net 366 heibot #easyctf :End of /NAMES list.
+:wm!wm@A8C5B168.39BD432A.34C61E59.IP JOIN :#easyctf
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :ok
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :should work now
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :`solved failedxyz
+:pwnd00d!pwnd00d@mib-7C0E57D5.lightspeed.lkzril.sbcglobal.net PRIVMSG #easyctf :lol k
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :dammit
+:Hcnsh!Hcnsh@mib-9B549249.nyc.res.rr.com PRIVMSG #easyctf :`solved poop
+:adj!adj@mib-34543BBE.dyn.optonline.net PRIVMSG #easyctf :lol
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :`solved Bumbuu
+:adj!adj@mib-34543BBE.dyn.optonline.net QUIT :Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :`solved Bumbuu
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :`solved
+:alokpathy!uid15876@mib-8283696A.irccloud.com PRIVMSG #easyctf :heibot: You screw up way too often.
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :`solved ghoti
+:Hcnsh!Hcnsh@mib-9B549249.nyc.res.rr.com PRIVMSG #easyctf :`solved Guessing is hard
+:nope!nope@8501E3FB.845064EE.4D4D5081.IP PRIVMSG #easyctf :`solved your mom
+:alokpathy!uid15876@mib-8283696A.irccloud.com PRIVMSG #easyctf :`solved
+:irc.uk.mibbit.net NOTICE AUTH :*** Looking up your hostname...
+:irc.uk.mibbit.net NOTICE AUTH :*** Couldn't resolve your hostname; using your IP address instead
+:irc.uk.mibbit.net 433 * heibot :Nickname is already in use.
+:irc.uk.mibbit.net NOTICE AUTH :*** Looking up your hostname...
+:irc.uk.mibbit.net NOTICE AUTH :*** Couldn't resolve your hostname; using your IP address instead
+PING :CA16F766
+:IRC!IRC@irc.uk.mibbit.net PRIVMSG heibot :VERSION
+:irc.uk.mibbit.net 001 heibot :Welcome to the Mibbit IRC Network heibot!heibot@98.206.22.165
+:irc.uk.mibbit.net 002 heibot :Your host is irc.uk.mibbit.net, running version Unreal3.2.8.1
+:irc.uk.mibbit.net 003 heibot :This server was created Thu May 5 2011 at 13:33:10 UTC
+:irc.uk.mibbit.net 004 heibot irc.uk.mibbit.net Unreal3.2.8.1 iowghraAsORTVSxNCWqBzvdHtGp lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGj
+:irc.uk.mibbit.net 005 heibot CMDS=KNOCK,MAP,DCCALLOW,USERIP UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:120,e:120,I:120 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+:irc.uk.mibbit.net 005 heibot MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTG NETWORK=Mibbit CASEMAPPING=ascii EXTBAN=~,cqnr ELIST=MNUCT :are supported by this server
+:irc.uk.mibbit.net 005 heibot STATUSMSG=~&@%+ EXCEPTS INVEX :are sup
+ported by this server
+:irc.uk.mibbit.net 251 heibot :There are 19 users and 3100 invisible on 4 servers
+:irc.uk.mibbit.net 252 heibot 19 :operator(s) online
+:irc.uk.mibbit.net 253 heibot 1 :unknown connection(s)
+:irc.uk.mibbit.net 254 heibot 1300 :channels formed
+:irc.uk.mibbit.net 255 heibot :I have 1641 clients and 3 servers
+:irc.uk.mibbit.net 265 heibot :Current Local Users: 1641  Max: 3885
+:irc.uk.mibbit.net 266 heibot :Current Global Users: 3119  Max: 7088
+:irc.uk.mibbit.net 375 heibot :- irc.uk.mibbit.net Message of the Day - 
+:irc.uk.mibbit.net 372 heibot :- 21/8/2011 12:50
+:irc.uk.mibbit.net 372 heibot :- Welcome to irc.mibbit.net
+:irc.uk.mibbit.net 372 heibot :-  _                      _ _     _     _ _                _   
+:irc.uk.mibbit.net 372 heibot :- (_)_ __ ___   _ __ ___ (_) |__ | |__ (_) |_   _ __   ___| |_ 
+:irc.uk.mibbit.net 372 heibot :- | | '__/ __| | '_ ` _ \| | '_ \| '_ \| | __| | '_ \ / _ \ __|
+:irc.uk.mibbit.net 372 heibot :- | | | | (__ _| | | | | | | |_) | |_) | | |_ _
+| | | |  __/ |_ 
+:irc.uk.mibbit.net 372 heibot :- |_|_|  \___(_)_| |_| |_|_|_.__/|_.__/|_|\__(_)_| |_|\___|\__|
+:irc.uk.mibbit.net 372 heibot :- 
+:irc.uk.mibbit.net 372 heibot :- This server is for individuals 13 years or older. Channels that
+:irc.uk.mibbit.net 372 heibot :- place themselves on Mibbit to issue and supply illegal items,
+:irc.uk.mibbit.net 372 heibot :- such as File Downloads, Music Tracks or other operations deemed
+:irc.uk.mibbit.net 372 heibot :- Illegal will be removed, and/or reported to the relevant Internet
+:irc.uk.mibbit.net 372 heibot :- Service Providers, and/or authorities.
+:irc.uk.mibbit.net 372 heibot :- 
+:irc.uk.mibbit.net 372 heibot :- Please be friendly and watch your language in public channels.
+:irc.uk.mibbit.net 372 heibot :- Do not impersonate other users, abuse will not be tolerated.
+:irc.uk.mibbit.net 372 heibot :- 
+:irc.uk.mibbit.net 372 heibot :- Mibbit Staff:  Axod    Azander  Fastundia  Havvy   Hercule
+:irc.uk.mibbit.net 372 heibot :-                Joshua
+Kitsune  Molkmin    Pottsi  Sindacious
+:irc.uk.mibbit.net 372 heibot :- 
+:irc.uk.mibbit.net 372 heibot :- Enjoy your stay :)
+:irc.uk.mibbit.net 372 heibot :- --axod
+:irc.uk.mibbit.net 376 heibot :End of /MOTD command.
+:heibot MODE heibot :+iwx
+:heibot!heibot@F4C7A360.2394FDCB.26C9456E.IP JOIN :#easyctf
+:irc.uk.mibbit.net 332 heibot #easyctf :EasyCTF 2014. Rules: USE COMMON SENSE. Don't share flags. If you need help, ask someone with a ~ or & or @ next to their username. Move bots to #easyctf-revolt or #easyctf-revolt-revolt. If you're feeling helpful, contribute to heibot at http://github.com/failedxyz/heibot
+:irc.uk.mibbit.net 333 heibot #easyctf failedxyz 1417560094
+:irc.uk.mibbit.net 353 heibot = #easyctf :heibot wm nope @pwnd00d slow Cosmic42 gadet Guest6741 AndroUser2 ~failedxyz ladspa cyron anomalousnoob lain hardmath123 TheBagels Hcnsh Mickey Lambda ` Forty-Bot faiI
+edxyz Ahri @JacobEdelman &Eleng555 @alokpathy &Bot sdamashek bob Kent jrni ma [bumbuu]ben saxx cptnXn 
+:irc.uk.mibbit.net 366 heibot #easyctf :End of /NAMES list.
+:irc.uk.mibbit.net 482 heibot #easyctf :You're not channel operator
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :ok
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :should work now
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :`solved spying on US citizens
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :NSA
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :`solved failedxyz
+:alokpathy!uid15876@mib-8283696A.irccloud.com PRIVMSG #easyctf :`solved survey
+:nope!nope@8501E3FB.845064EE.4D4D5081.IP PRIVMSG #easyctf :`solved your mom
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :`solved ghoti
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :lol
+:alokpathy!uid15876@mib-8283696A.irccloud.com PRIVMSG #easyctf :`solved Reversing1
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :`solved reversing1
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :`solved reversing2
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :`solved reversing 1
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :`solved ghoti
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :what
+:nope!nope@8501E3FB.845064EE.4D4D5081.IP PRIVMSG #easyctf :`solved ghoti
+:alokpathy!uid15876@mib-8283696A.irccloud.com PRIVMSG #easyctf :um
+:Lambda!Lambda@EB494F98.B0E15C48.37E78FAC.IP PRIVMSG #easyctf :yes
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :`solved reversing 1
+:Lambda!Lambda@EB494F98.B0E15C48.37E78FAC.IP PRIVMSG #easyctf :im part of 20 :)
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :wtf
+:nope!nope@8501E3FB.845064EE.4D4D5081.IP PRIVMSG #easyctf :yay I'm part of those 20 teams whaddup
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :`solved The Door
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :`solved door
+:alokpathy!uid15876@mib-8283696A.irccloud.com PRIVMSG #easyctf :`solved Guessing Is Hard
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :`solved "The Door"
+:Lambda!Lambda@EB494F98.B0E15C48.37E78FAC.IP PRIVMSG #easyctf :i love how i can solve RSA
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :`solved The\ Door
+:alokpathy!uid15876@mib-8283696A.irccloud.com PRIVMSG #easyctf :dammit heibot
+:alokpathy!uid15876@mib-8283696A.irccloud.com PRIVMSG #easyctf :get better
+:Lambda!Lambda@EB494F98.B0E15C48.37E78FAC.IP PRIVMSG #easyctf :but not the poem
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :`solved RSA
+:nope!nope@8501E3FB.845064EE.4D4D5081.IP PRIVMSG #easyctf :`solved Evil Guess
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :`solved Obfuscation 2
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :`solved the door
+:nope!nope@8501E3FB.845064EE.4D4D5081.IP PRIVMSG #easyctf :`solved EvilGuess
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :dammit
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :failedxyz: spaces
+:TheBagels!TheBagels@25FC8678.CFC78C13.5A26C328.IP PRIVMSG #easyctf :seriously 15 have solved RSA
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :ok
+:Lambda!Lambda@EB494F98.B0E15C48.37E78FAC.IP PRIVMSG #easyctf :`the raven
+:nope!nope@8501E3FB.845064EE.4D4D5081.IP PRIVMSG #easyctf :`solved evil-guess
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :no
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :spaces should work
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :failedxyz: Ghoti
+:Lambda!Lambda@EB494F98.B0E15C48.37E78FAC.IP PRIVMSG #easyctf :`the-raven
+:nope!nope@8501E3FB.845064EE.4D4D5081.IP PRIVMSG #easyctf :'solved evil guess
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :failedxyz: Pixelated
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :`solved failedxyz
+:alokpathy!uid15876@mib-8283696A.irccloud.com PRIVMSG #easyctf :`solved raven
+:nope!nope@8501E3FB.845064EE.4D4D5081.IP PRIVMSG #easyctf :`solved evil guess
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :`solved mildly evil guess
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :`solved pixelated
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :failedxyz: EasyCTF Survey
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :failedxyz: Networking
+:alokpathy!uid15876@mib-8283696A.irccloud.com PRIVMSG #easyctf :`solved Survey
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :`solved easyctf survey
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :`solved easyctf survey
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :failedxyz: QR
+:cptnXn!sid33285@mib-8283696A.irccloud.com PRIVMSG #easyctf :`solved survey
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :failedxyz: QR
+:cptnXn!sid33285@mib-8283696A.irccloud.com PRIVMSG #easyctf :`solved QR
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :`solved guessing is hard
+:Lambda!Lambda@EB494F98.B0E15C48.37E78FAC.IP PRIVMSG #easyctf :lol
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :`solved POST-it
+:cptnXn!sid33285@mib-8283696A.irccloud.com PRIVMSG #easyctf :`solved Networking
+:Lambda!Lambda@EB494F98.B0E15C48.37E78FAC.IP PRIVMSG #easyctf :QR was easy
+:slow!slowmath@mib-18FAF393.cable.mindspring.com PRIVMSG #easyctf :lol
+:cptnXn!sid33285@mib-8283696A.irccloud.com PRIVMSG #easyctf :`solved
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :`solved Guessing is hard
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :`solved A000045.txt
+:hardmath123!Hardmath12@8FD49322.A1FE29E.16D5AEB9.IP PART #easyctf :WeeChat 0.4.3
+:alokpathy!uid15876@mib-8283696A.irccloud.com PRIVMSG #easyctf :`solved Linux Basics 1
+:cptnXn!sid33285@mib-8283696A.irccloud.com PRIVMSG #easyctf :`solved A
+:nope!nope@8501E3FB.845064EE.4D4D5081.IP QUIT :Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :`solved Flowchart
+:irc.us.mibbit.net NOTICE AUTH :*** Looking up your hostname...
+:irc.us.mibbit.net NOTICE AUTH :*** Couldn't resolve your hostname; using your IP address instead
+PING :E978ECDB
+:IRC!IRC@irc.us.mibbit.net PRIVMSG heibot :VERSION
+:irc.us.mibbit.net 001 heibot :Welcome to the Mibbit IRC Network heibot!heibot@98.206.22.165
+:irc.us.mibbit.net 002 heibot :Your host is irc.us.mibbit.net, running version Unreal3.2.10.4
+:irc.us.mibbit.net 003 heibot :This server was created Tue Dec 2 2014 at 00:02:39 UTC
+:irc.us.mibbit.net 004 heibot irc.us.mibbit.net Unreal3.2.10.4 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+:irc.us.mibbit.net 005 heibot UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:120,e:120,I:120 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 MAXTARGETS=20 :are supported by this server
+:irc.us.mibbit.net 005 heibot WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=Mibbit CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT STATUSMSG=~&@%+ :are supported by this server
+:irc.us.mibbit.net 005 heibot EXCEPTS INVEX CMDS=KNOCK,MAP,DCCALLOW,USERIP,
+STARTTLS :are supported by this server
+:irc.us.mibbit.net 251 heibot :There are 19 users and 3108 invisible on 4 servers
+:irc.us.mibbit.net 252 heibot 19 :operator(s) online
+:irc.us.mibbit.net 254 heibot 1303 :channels formed
+:irc.us.mibbit.net 255 heibot :I have 835 clients and 1 servers
+:irc.us.mibbit.net 265 heibot 835 965 :Current local users 835, max 965
+:irc.us.mibbit.net 266 heibot 3127 7088 :Current global users 3127, max 7088
+:irc.us.mibbit.net 422 heibot :MOTD File is missing
+:heibot MODE heibot :+iwx
+:heibot!heibot@F4C7A360.2394FDCB.26C9456E.IP JOIN :#easyctf
+:irc.us.mibbit.net 332 heibot #easyctf :EasyCTF 2014. Rules: USE COMMON SENSE. Don't share flags. If you need help, ask someone with a ~ or & or @ next to their username. Move bots to #easyctf-revolt or #easyctf-revolt-revolt. If you're feeling helpful, contribute to heibot at http://github.com/failedxyz/heibot
+:irc.us.mibbit.net 333 heibot #easyctf failedxyz 1417560094
+:irc.us.mibbit.net 353 heibot = #easyctf :heibot wm @pwnd00d slow Cosmic42 gadet Guest6741 AndroUser2 ~failedxyz ladspa cyron anomalousnoob lain TheBagels Hcnsh Mickey Lambda ` Forty-Bot faiIedxyz Ahri @JacobEdelman &Eleng555 cptnXn saxx [bumbuu]ben ma jrni Kent bob sdamashek &Bot @alokpathy 
+:irc.us.mibbit.net 366 heibot #easyctf :End of /NAMES list.
+:irc.us.mibbit.net 482 heibot #easyctf :You're not channel operator
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :`solved Guessing is Hard
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :`solved The Door
+:alokpathy!uid15876@mib-8283696A.irccloud.com PRIVMSG #easyctf :Lambda: it left
+:alokpathy!uid15876@mib-8283696A.irccloud.com PRIVMSG #easyctf :oh nevermind
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :`solved guessing is hard
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :`solved Ghoti
+:alokpathy!uid15876@mib-8283696A.irccloud.com PRIVMSG #easyctf :it's back
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :goddamit
+:cptnXn!sid33285@mib-8283696A.irccloud.com PRIVMSG #easyctf :`solved Linux Basics 10
+:TheBagels!TheBagels@25FC8678.CFC78C13.5A26C328.IP QUIT :Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
+:alokpathy!uid15876@mib-8283696A.irccloud.com PRIVMSG #easyctf :`solved Reversing1
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :`solved The\ Door
+:irc.us.mibbit.net NOTICE AUTH :*** Looking up your hostname...
+:irc.us.mibbit.net NOTICE AUTH :*** Couldn't resolve your hostname; using your IP address instead
+PING :1B399ED2
+:IRC!IRC@irc.us.mibbit.net PRIVMSG heibot :VERSION
+:irc.us.mibbit.net 001 heibot :Welcome to the Mibbit IRC Network heibot!heibot@98.206.22.165
+:irc.us.mibbit.net 002 heibot :Your host is irc.us.mibbit.net, running version Unreal3.2.10.4
+:irc.us.mibbit.net 003 heibot :This server was created Tue Dec 2 2014 at 00:02:39 UTC
+:irc.us.mibbit.net 004 heibot irc.us.mibbit.net Unreal3.2.10.4 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+:irc.us.mibbit.net 005 heibot UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:120,e:120,I:120 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 MAXTARGETS=20 :are supported by this server
+:irc.us.mibbit.net 005 heibot WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=Mibbit CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT STATUSMSG=~&@%+ :are supported by this server
+:irc.us.mibbit.net 005 heibot EXCEPTS INVEX CMDS=KNOCK,MAP,DCCALLOW,USERIP,
+STARTTLS :are supported by this server
+:irc.us.mibbit.net 251 heibot :There are 19 users and 3118 invisible on 4 servers
+:irc.us.mibbit.net 252 heibot 19 :operator(s) online
+:irc.us.mibbit.net 253 heibot 1 :unknown connection(s)
+:irc.us.mibbit.net 254 heibot 1303 :channels formed
+:irc.us.mibbit.net 255 heibot :I have 840 clients and 1 servers
+:irc.us.mibbit.net 265 heibot 840 965 :Current local users 840, max 965
+:irc.us.mibbit.net 266 heibot 3137 7088 :Current global users 3137, max 7088
+:irc.us.mibbit.net 422 heibot :MOTD File is missing
+:heibot MODE heibot :+iwx
+:heibot!heibot@F4C7A360.2394FDCB.26C9456E.IP JOIN :#easyctf
+:irc.us.mibbit.net 332 heibot #easyctf :EasyCTF 2014. Rules: USE COMMON SENSE. Don't share flags. If you need help, ask someone with a ~ or & or @ next to their username. Move bots to #easyctf-revolt or #easyctf-revolt-revolt. If you're feeling helpful, contribute to heibot at http://github.com/failedxyz/heibot
+:irc.us.mibbit.net 333 heibot #easyctf failedxyz 1417560094
+:irc.us.mibbit.net 353 heibot = #easyctf :heib
+ot wm @pwnd00d slow Cosmic42 gadet Guest6741 AndroUser2 ~failedxyz ladspa cyron anomalousnoob lain Hcnsh Mickey Lambda ` Forty-Bot faiIedxyz Ahri @JacobEdelman &Eleng555 cptnXn saxx [bumbuu]ben ma jrni Kent bob sdamashek &Bot @alokpathy 
+:irc.us.mibbit.net 366 heibot #easyctf :End of /NAMES list.
+:irc.us.mibbit.net 482 heibot #easyctf :You're not channel operator
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :`solved The Door
+:Lambda!Lambda@EB494F98.B0E15C48.37E78FAC.IP PRIVMSG #easyctf :`solved The Raven
+:anomalousnoob!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :`solved Guessing is hard
+:irc.us.mibbit.net NOTICE AUTH :*** Looking up your hostname...
+:irc.us.mibbit.net NOTICE AUTH :*** Couldn't resolve your hostname; using your IP address instead
+PING :6842B221
+:6842B221!nospoof@irc.us.mibbit.net PRIVMSG heibot :VERSION
+:irc.us.mibbit.net 451 PRIVMSG :You have not registered
+:irc.us.mibbit.net NOTICE AUTH :*** Looking up your hostname...
+:irc.us.mibbit.net NOTICE AUTH :*** Couldn't resolve your hostname; using your IP address instead
+PING :EE4BF543
+:EE4BF543!nospoof@irc.us.mibbit.net PRIVMSG heibot :VERSION
+:irc.us.mibbit.net 451 PRIVMSG :You have not registered
+:irc.us.mibbit.net NOTICE AUTH :*** Looking up your hostname...
+:irc.us.mibbit.net NOTICE AUTH :*** Couldn't resolve your hostname; using your IP address instead
+PING :4D2A2F64
+:4D2A2F64!nospoof@irc.us.mibbit.net PRIVMSG heibot :VERSION
+:irc.us.mibbit.net 451 PRIVMSG :You have not registered
+:irc.us.mibbit.net NOTICE AUTH :*** Looking up your hostname...
+:irc.us.mibbit.net NOTICE AUTH :*** Couldn't resolve your hostname; using your IP address instead
+PING :FFBFA8E6
+:FFBFA8E6!nospoof@irc.us.mibbit.net PRIVMSG heibot :VERSION
+:irc.us.mibbit.net 451 PRIVMSG :You have not registered
+:irc.us.mibbit.net NOTICE AUTH :*** Looking up your hostname...
+:irc.us.mibbit.net NOTICE AUTH :*** Couldn't resolve your hostname; using your IP address instead
+PING :62286702
+:IRC!IRC@irc.us.mibbit.net PRIVMSG heibot :VERSION
+:irc.us.mibbit.net 001 heibot :Welcome to the Mibbit IRC Network heibot!heibot@98.206.22.165
+:irc.us.mibbit.net 002 heibot :Your host is irc.us.mibbit.net, running version Unreal3.2.10.4
+:irc.us.mibbit.net 003 heibot :This server was created Tue Dec 2 2014 at 00:02:39 UTC
+:irc.us.mibbit.net 004 heibot irc.us.mibbit.net Unreal3.2.10.4 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+:irc.us.mibbit.net 005 heibot UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:120,e:120,I:120 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 MAXTARGETS=20 :are supported by this server
+:irc.us.mibbit.net 005 heibot WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=Mibbit CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT STATUSMSG=~&@%+ :are supported by this server
+:irc.us.mibbit.net 005 heibot EXCEPTS INVEX CMDS=KNOCK,MAP,DCCALLOW,USERIP,
+STARTTLS :are supported by this server
+:irc.us.mibbit.net 251 heibot :There are 19 users and 3103 invisible on 4 servers
+:irc.us.mibbit.net 252 heibot 19 :operator(s) online
+:irc.us.mibbit.net 253 heibot 1 :unknown connection(s)
+:irc.us.mibbit.net 254 heibot 1302 :channels formed
+:irc.us.mibbit.net 255 heibot :I have 841 clients and 1 servers
+:irc.us.mibbit.net 265 heibot 841 965 :Current local users 841, max 965
+:irc.us.mibbit.net 266 heibot 3122 7088 :Current global users 3122, max 7088
+:irc.us.mibbit.net 422 heibot :MOTD File is missing
+:heibot MODE heibot :+iwx
+:heibot!heibot@F4C7A360.2394FDCB.26C9456E.IP JOIN :#easyctf
+:irc.us.mibbit.net 332 heibot #easyctf :EasyCTF 2014. Rules: USE COMMON SENSE. Don't share flags. If you need help, ask someone with a ~ or & or @ next to their username. Move bots to #easyctf-revolt or #easyctf-revolt-revolt. If you're feeling helpful, contribute to heibot at http://github.com/failedxyz/heibot
+:irc.us.mibbit.net 333 heibot #easyctf failedxyz 1417560094
+:irc.us.mibbit.net 353 heibot = #easyctf :heibot pwnd00d Karan wm slow Cosmic42 gadet Guest6741 AndroUser2 ~failedxyz ladspa cyron anomalousfailurequitter lain Hcnsh Mickey Lambda ` Forty-Bot faiIedxyz Ahri @JacobEdelman &Eleng555 cptnXn saxx [bumbuu]ben ma jrni Kent bob sdamashek &Bot @alokpathy 
+:irc.us.mibbit.net 366 heibot #easyctf :End of /NAMES list.
+:irc.us.mibbit.net 482 heibot #easyctf :You're not channel operator
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :`solved The Door.
+:anomalousfailurequitter!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :`solved Guessing is Hard
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :`solved The Door
+:pwnd00d!pwnd00d@mib-7C0E57D5.lightspeed.lkzril.sbcglobal.net QUIT :Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :`solved Ghoti
+:anomalousfailurequitter!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :`solved Guessing 
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :`solved Door
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :`solved the door
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :`solved The Door
+:slow!slowmath@mib-18FAF393.cable.mindspring.com PRIVMSG #easyctf :'solved pointless keys
+:irc.us.mibbit.net NOTICE AUTH :*** Looking up your hostname...
+:irc.us.mibbit.net NOTICE AUTH :*** Couldn't resolve your hostname; using your IP address instead
+PING :88B7FC4F
+:IRC!IRC@irc.us.mibbit.net PRIVMSG heibot :VERSION
+:irc.us.mibbit.net 001 heibot :Welcome to the Mibbit IRC Network heibot!heibot@98.206.22.165
+:irc.us.mibbit.net 002 heibot :Your host is irc.us.mibbit.net, running version Unreal3.2.10.4
+:irc.us.mibbit.net 003 heibot :This server was created Tue Dec 2 2014 at 00:02:39 UTC
+:irc.us.mibbit.net 004 heibot irc.us.mibbit.net Unreal3.2.10.4 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+:irc.us.mibbit.net 005 heibot UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:120,e:120,I:120 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 MAXTARGETS=20 :are supported by this server
+:irc.us.mibbit.net 005 heibot WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=Mibbit CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT STATUSMSG=~&@%+ :are supported by this server
+:irc.us.mibbit.net 005 heibot EXCEPTS INVEX CMDS=KNOCK,MAP,DCCALLOW,USERIP,
+STARTTLS :are supported by this server
+:irc.us.mibbit.net 251 heibot :There are 19 users and 3105 invisible on 4 servers
+:irc.us.mibbit.net 252 heibot 19 :operator(s) online
+:irc.us.mibbit.net 253 heibot 2 :unknown connection(s)
+:irc.us.mibbit.net 254 heibot 1303 :channels formed
+:irc.us.mibbit.net 255 heibot :I have 843 clients and 1 servers
+:irc.us.mibbit.net 265 heibot 843 965 :Current local users 843, max 965
+:irc.us.mibbit.net 266 heibot 3124 7088 :Current global users 3124, max 7088
+:irc.us.mibbit.net 422 heibot :MOTD File is missing
+:heibot MODE heibot :+iwx
+:heibot!heibot@F4C7A360.2394FDCB.26C9456E.IP JOIN :#easyctf
+:irc.us.mibbit.net 332 heibot #easyctf :EasyCTF 2014. Rules: USE COMMON SENSE. Don't share flags. If you need help, ask someone with a ~ or & or @ next to their username. Move bots to #easyctf-revolt or #easyctf-revolt-revolt. If you're feeling helpful, contribute to heibot at http://github.com/failedxyz/heibot
+:irc.us.mibbit.net 333 heibot #easyctf failedxyz 1417560094
+:irc.us.mibbit.net 353 heibot = #easyctf :heib
+ot Karan wm slow Cosmic42 gadet Guest6741 AndroUser2 ~failedxyz ladspa cyron anomalousfailurequitter lain Hcnsh Mickey Lambda ` Forty-Bot faiIedxyz Ahri @JacobEdelman &Eleng555 cptnXn saxx [bumbuu]ben ma jrni Kent bob sdamashek &Bot @alokpathy 
+:irc.us.mibbit.net 366 heibot #easyctf :End of /NAMES list.
+:irc.us.mibbit.net 482 heibot #easyctf :You're not channel operator
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :`solved pointless keys
+:irc.us.mibbit.net NOTICE AUTH :*** Looking up your hostname...
+:irc.us.mibbit.net NOTICE AUTH :*** Couldn't resolve your hostname; using your IP address instead
+PING :914CB905
+:914CB905!nospoof@irc.us.mibbit.net PRIVMSG heibot :VERSION
+:irc.us.mibbit.net 451 PRIVMSG :You have not registered
+:irc.us.mibbit.net NOTICE AUTH :*** Looking up your hostname...
+:irc.us.mibbit.net NOTICE AUTH :*** Couldn't resolve your hostname; using your IP address instead
+PING :64BA2595
+:IRC!IRC@irc.us.mibbit.net PRIVMSG heibot :VERSION
+:irc.us.mibbit.net 001 heibot :Welcome to the Mibbit IRC Network heibot!heibot@98.206.22.165
+:irc.us.mibbit.net 002 heibot :Your host is irc.us.mibbit.net, running version Unreal3.2.10.4
+:irc.us.mibbit.net 003 heibot :This server was created Tue Dec 2 2014 at 00:02:39 UTC
+:irc.us.mibbit.net 004 heibot irc.us.mibbit.net Unreal3.2.10.4 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+:irc.us.mibbit.net 005 heibot UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:120,e:120,I:120 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 MAXTARGETS=20 :are supported by this server
+:irc.us.mibbit.net 005 heibot WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=Mibbit CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT STATUSMSG=~&@%+ :are supported by this server
+:irc.us.mibbit.net 005 heibot EXCEPTS INVEX CMDS=KNOCK,MAP,DCCALLOW,USERIP,
+STARTTLS :are supported by this server
+:irc.us.mibbit.net 251 heibot :There are 20 users and 3102 invisible on 4 servers
+:irc.us.mibbit.net 252 heibot 19 :operator(s) online
+:irc.us.mibbit.net 253 heibot 1 :unknown connection(s)
+:irc.us.mibbit.net 254 heibot 1301 :channels formed
+:irc.us.mibbit.net 255 heibot :I have 838 clients and 1 servers
+:irc.us.mibbit.net 265 heibot 838 965 :Current local users 838, max 965
+:irc.us.mibbit.net 266 heibot 3122 7088 :Current global users 3122, max 7088
+:irc.us.mibbit.net 422 heibot :MOTD File is missing
+:heibot MODE heibot :+iwx
+:heibot!heibot@F4C7A360.2394FDCB.26C9456E.IP JOIN :#easyctf
+:irc.us.mibbit.net 332 heibot #easyctf :EasyCTF 2014. Rules: USE COMMON SENSE. Don't share flags. If you need help, ask someone with a ~ or & or @ next to their username. Move bots to #easyctf-revolt or #easyctf-revolt-revolt. If you're feeling helpful, contribute to heibot at http://github.com/failedxyz/heibot
+:irc.us.mibbit.net 333 heibot #easyctf failedxyz 1417560094
+:irc.us.mibbit.net 353 heibot = #easyctf :heib
+ot Karan wm slow Cosmic42 gadet Guest6741 AndroUser2 ~failedxyz ladspa cyron anomalousfailurequitter lain Hcnsh Mickey Lambda ` Forty-Bot faiIedxyz Ahri @JacobEdelman &Eleng555 cptnXn saxx [bumbuu]ben ma jrni Kent bob sdamashek &Bot @alokpathy 
+:irc.us.mibbit.net 366 heibot #easyctf :End of /NAMES list.
+:irc.us.mibbit.net 482 heibot #easyctf :You're not channel operator
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :`solved The Door
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :`solved the door
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :great
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :`solved the raven
+:Hcnsh!Hcnsh@mib-9B549249.nyc.res.rr.com PRIVMSG #easyctf :really?
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :`solved failedxyz
+:anomalousfailurequitter!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :`solved guessing is hard
+:Hcnsh!Hcnsh@mib-9B549249.nyc.res.rr.com PRIVMSG #easyctf :`solved survey
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :`solved evil guess
+:anomalousfailurequitter!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :goddammit
+:Hcnsh!Hcnsh@mib-9B549249.nyc.res.rr.com PRIVMSG #easyctf :`solved Survey
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :`solved obfuscation 2
+:failedxyz!failedxyz@F4C7A360.2394FDCB.26C9456E.IP PRIVMSG #easyctf :`solved easyctf survey
+:anomalousfailurequitter!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :im a failure
+:[bumbuu]ben!c@97B2D74C.4B030554.553B3929.IP PRIVMSG #easyctf :`solved fast math
+:anomalousfailurequitter!quassel@mib-DE415893.hsd1.ca.comcast.net PRIVMSG #easyctf :`failure chaosagent

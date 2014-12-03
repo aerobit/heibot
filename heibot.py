@@ -28,7 +28,7 @@ irc = {
 # f = open("log.txt", "a");
 
 bitches = set();
-commands = ["help", "helixfossil (or hf)", "md5", "roll", "flag", "rek", "<3"];
+commands = ["help", "helixfossil (or hf)", "md5", "roll", "flag", "rek", "<3", "top", "solved"];
 
 def generate_flag():
     flag = "";
@@ -117,7 +117,43 @@ def parse(line):
                     s.send("PRIVMSG %s :<3 %s\n" % (irc['chan'], username));
                 elif command.find("bitches") != -1:
                     s.send("PRIVMSG %s :My bitches are: %s\n" % (irc['chan'], ", ".join(list(bitches))));
-                
+                elif command.find("top") != -1:
+                    num = 5;
+                    try:
+                        if len(actual) == 2:
+                            num = int(actual[1]);
+                            if num < 1:
+                                raise Exception()
+                    except Exception:
+                        num = 5;
+                        # s.send("PRIVMSG %s :Usage: `top [n]\n" % (irc['chan']));
+                    try:
+                        data = __import__("json").loads(__import__("urllib2").urlopen("http://easyctf.com/api/stats/top?num=%d" % num).read());
+                        string = "";
+                        for item in data:
+                            string += "%d: %s, %dpts; " % (item['place'], item['teamname'], item['points']);
+                        s.send("PRIVMSG %s :top %d teams: %s\n" % (irc['chan'], num, str(string)));
+                    except Exception:
+                        s.send("PRIVMSG %s :dang it, screwed up somewhere\n" % (irc['chan']));
+                elif command.find("solved") != -1:
+                    try:
+                        stuff = message.strip("\r\n")[8:];
+                        print stuff;
+                        if len(stuff) < 1:
+                            raise Exception();
+                        try:
+                            data = __import__("json").loads(__import__("urllib2").urlopen("http://easyctf.com/api/stats/solved?pname=%s" % __import__("urllib").pathname2url(stuff)).read());
+                            print data;
+                            string = "";
+                            if data['status'] == 1:
+                                string = "%d teams have solved %s!" % (data['nTeams'], stuff);
+                            else:
+                                string = "error: %s" % (data['message']);
+                            s.send("PRIVMSG %s :%s\n" % (irc['chan'], str(string)));
+                        except Exception:
+                            s.send("PRIVMSG %s :dang it, screwed up somewhere\n" % (irc['chan']));
+                    except Exception:
+                        s.send("PRIVMSG %s :Usage: `solved [problem_name]\n" % (irc['chan']));
 
 while not stop:
     line = s.recv(1024);
