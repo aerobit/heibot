@@ -29,7 +29,7 @@ irc = {
 # f = open("log.txt", "a")
 
 bitches = set()
-commands = ["help", "helixfossil (or hf)", "md5", "roll", "flag", "rek", "<3", "top", "solved"]
+commands = ["help", "helixfossil (or hf)", "md5", "roll", "flag", "rek", "<3", "top", "solved", "roulette"]
 
 def generate_flag():
     flag = ""
