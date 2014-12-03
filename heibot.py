@@ -50,7 +50,7 @@ def parse(line):
             # s.send("PRIVMSG %s :welcome, %s\n" % (irc['chan'], username));
             if username.lower().find("bot") != -1:
                 string = "KICK %s %s :heibot is the only real bot\n" % (irc['chan'], username);
-                print string;
+                # print string;
                 s.send(string);
         if len(line.split(":")) == 3:
             username = line.split(":")[1].split("!")[0];
@@ -83,11 +83,11 @@ def parse(line):
                 elif command.find("flag") != -1:
                     try:
                         problem = message.strip("\r\n")[6:];
-                        print problem;
+                        # print problem;
                         if len(problem) < 1:
                             raise Exception();
                         string = "PRIVMSG %s :%s, sending the flag for %s to you in private message!\n" % (irc['chan'], username, problem);
-                        print string;
+                        # print string;
                         s.send(string);
                         s.send("PRIVMSG %s :%s\n" % (username, generate_flag()));
                     except Exception:
@@ -104,7 +104,7 @@ def parse(line):
                 elif command.find("md5") != -1:
                     try:
                         stuff = message.strip("\r\n")[5:];
-                        print stuff;
+                        # print stuff;
                         if len(stuff) < 1:
                             raise Exception();
                         s.send("PRIVMSG %s :md5 of \"%s\" is %s\n" % (irc['chan'], stuff, __import__("hashlib").md5(stuff).hexdigest()));
@@ -138,12 +138,12 @@ def parse(line):
                 elif command.find("solved") != -1:
                     try:
                         stuff = message.strip("\r\n")[8:];
-                        print stuff;
+                        # print stuff;
                         if len(stuff) < 1:
                             raise Exception();
                         try:
                             data = __import__("json").loads(__import__("urllib2").urlopen("http://easyctf.com/api/stats/solved?pname=%s" % __import__("urllib").pathname2url(stuff)).read());
-                            print data;
+                            # print data;
                             string = "";
                             if data['status'] == 1:
                                 string = "%d teams have solved %s!" % (data['nTeams'], stuff);
@@ -157,7 +157,7 @@ def parse(line):
 
 while not stop:
     line = s.recv(1024);
-    print line.strip();
+    # print line.strip();
     f = open("log.txt", "a");
     f.write("%s\n" % line.strip());
     f.close();
