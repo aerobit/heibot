@@ -79,7 +79,7 @@ def parse(line):
                         a = 0;
                         s.send("PRIVMSG %s :fuck you %s\n" % (irc['chan'], username));
                 elif command.find("help") != -1:
-                    s.send("PRIVMSG %s :commands are: %s\n" % (irc['chan'], ", ".join(sorted(commands))));
+                    s.send("PRIVMSG %s :commands are: %s. for more info, see %s.\n" % (irc['chan'], ", ".join(sorted(commands)), "https://github.com/failedxyz/heibot/blob/master/README.md"));
                 elif command.find("flag") != -1:
                     try:
                         problem = message.strip("\r\n")[6:];
@@ -150,8 +150,6 @@ def parse(line):
                             else:
                                 string = "error: %s" % (data['message']);
                             s.send("PRIVMSG %s :%s\n" % (irc['chan'], str(string)));
-                            if stuff.lower() in ['the door', 'guessing is hard']:
-                                s.send("PRIVMSG %s :chaosagent cannot solve %s and therefore deserves public shaming" % (irc['chan'], stuff))
                         except Exception:
                             s.send("PRIVMSG %s :dang it, screwed up somewhere\n" % (irc['chan']));
                     except Exception:
