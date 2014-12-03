@@ -22,12 +22,13 @@ connected = False;
 stop = False;
 greet = False;
 irc = {
-    "chan": "#easyctf",
+    "chan": CHANNEL,
 }
 
 # f = open("log.txt", "a");
 
 bitches = set();
+commands = ["help", "helixfossil (or hf)", "md5", "roll", "flag", "rek", "<3"];
 
 def generate_flag():
     flag = "";
@@ -44,19 +45,26 @@ def parse(line):
         s.send("NICK "+NICK+"\n");
         s.send("USER "+NICK+" "+NICK+" "+NICK+" :"+NICK+"\n");
     else:
+        if line.find("JOIN :#easyctf") != -1:
+            username = line.split(":")[1].split("!")[0];
+            # s.send("PRIVMSG %s :welcome, %s\n" % (irc['chan'], username));
+            if username.lower().find("bot") != -1:
+                string = "KICK %s %s :heibot is the only real bot\n" % (irc['chan'], username);
+                print string;
+                s.send(string);
         if len(line.split(":")) == 3:
             username = line.split(":")[1].split("!")[0];
             message = line.split(":")[2];
-            if message.split(" ")[0].strip().lower() in ["hi", "hei", "hello"]:
+            if message.split(" ")[0].strip().strip(",").strip(":").lower() in ["hi", "hei", "hello"]:
                 random.seed();
                 k = random.randint(1, 1000);
                 if k < 900:
                     s.send("PRIVMSG %s :hei, %s\n" % (irc['chan'], username));
                 else:
                     s.send("PRIVMSG %s :fuck you, %s, i hope you die a horribly gruesome death\n" % (irc['chan'], username));
-            if message.split(" ")[0].strip().lower() in ["lol"]:
+            if message.split(" ")[0].strip().strip(",").strip(":").lower() in ["lol"]:
                 s.send("PRIVMSG %s :%s, but did you actually laugh out loud?\n" % (irc['chan'], username));
-            if message.find("!") != -1:
+            if message.find("`") != -1:
                 actual = message[1:].split(" ");
                 command = actual[0];
                 if command.find("roll") != -1:
@@ -70,23 +78,38 @@ def parse(line):
                     except Exception:
                         a = 0;
                         s.send("PRIVMSG %s :fuck you %s\n" % (irc['chan'], username));
+                elif command.find("help") != -1:
+                    s.send("PRIVMSG %s :commands are: %s\n" % (irc['chan'], ", ".join(sorted(commands))));
                 elif command.find("flag") != -1:
                     try:
-                        problem = message[6:];
+                        problem = message.strip("\r\n")[6:];
+                        print problem;
                         if len(problem) < 1:
                             raise Exception();
-                        s.send("PRIVMSG %s :%s, sending the flag for \"%s\" to you in private message!\n" % (irc['chan'], username, problem));
+                        string = "PRIVMSG %s :%s, sending the flag for %s to you in private message!\n" % (irc['chan'], username, problem);
+                        print string;
+                        s.send(string);
                         s.send("PRIVMSG %s :%s\n" % (username, generate_flag()));
                     except Exception:
-                        s.send("PRIVMSG %s :Usage: !flag [problem_name]\n" % (irc['chan']));
+                        s.send("PRIVMSG %s :Usage: `flag [problem_name]\n" % (irc['chan']));
+                elif command.find("rek") != -1:
+                    user = message.strip("\r\n")[5:];
+                    print user;
+                    try:
+                        if len(user) < 1:
+                            raise Exception();
+                        s.send("PRIVMSG %s :%s, you just got rekt by %s\n" % (irc['chan'], user, username));
+                    except Exception:
+                        s.send("PRIVMSG %s :Usage: `rek [username]\n" % (irc['chan']));
                 elif command.find("md5") != -1:
                     try:
-                        stuff = message[5:];
+                        stuff = message.strip("\r\n")[5:];
+                        print stuff;
                         if len(stuff) < 1:
                             raise Exception();
                         s.send("PRIVMSG %s :md5 of \"%s\" is %s\n" % (irc['chan'], stuff, __import__("hashlib").md5(stuff).hexdigest()));
                     except Exception:
-                        s.send("PRIVMSG %s :Usage: !md5 [stuff]\n" % (irc['chan']));
+                        s.send("PRIVMSG %s :Usage: `md5 [stuff]\n" % (irc['chan']));
                 elif command.find("helixfossil") != -1 or command.find("hf") != -1:
                     s.send("PRIVMSG %s :%s, %s\n" % (irc['chan'], username, random.choice(outcomes)));
                 elif command.find("<3") != -1:
